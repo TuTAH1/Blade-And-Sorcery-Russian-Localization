@@ -1918,7 +1918,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Character",
-          "text": "Персонаж",
+          "text": "Персонажа",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4053,7 +4053,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ModManagerDisclaimer",
-          "text": "Blade & Sorcery создан для модов и моддеров, так что наслаждайтесь!\n\n Однако мы должны сообщить нашим игрокам, что все моды создаются независимо от Warpfrog, поэтому мы не можем ручаться за контент, качество или функциональность. Warpfrog не может гарантировать техническую поддержку любого контента, созданного игроками.\n\n Обратите внимание, что моды могут кардинально изменить игровой процесс, создать проблемы с производительностью и внести ошибки в игру. Если вы обнаружите, что мод внезапно начал вести себя странно, рекомендуется удалить все моды и начать новое сохранение персонажа.",
+          "text": "Blade & Sorcery создан для модов и моддеров, так что наслаждайтесь!\n\n Однако мы должны сообщить нашим игрокам, что все моды создаются независимо от Warpfrog, поэтому мы не можем ручаться за контент, качество или функциональность. Warpfrog не может гарантировать техническую поддержку любого контента, созданного игроками.\n\n Обратите внимание, что моды могут кардинально изменить игровой процесс, вызывать проблемы с производительностью и добавлять баги в игру. Если вы обнаружите, что какой-либо мод внезапно начал вести себя странно, рекомендуется удалить все моды и создать новое сохранение персонажа.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5131,7 +5131,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "EndingAnnihilation",
-          "text": "Правда отвратительна. Мы обречены быть уничтоженными корыстными личностями. Если вы сомневаетесь в моих словах, посмотрите на безудержную алчность и моральное разложение, которые пронизывают этот мир, и скажите мне, что я неправ.\n\nТалши Накамла\r",
+          "text": "Правда отвратительна. Мы обречены быть уничтоженными корыстными личностями. Если вы сомневаетесь в моих словах, посмотрите на безудержное стремление к алчности и моральному разложению, которые пронизывают этот мир, и скажите мне, что я неправа.\n\nТалши Накамла\r",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5151,7 +5151,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NotSupportedControllers",
-          "text": "Ваши контроллеры пока не поддерживаются. Входы могут работать неправильно.",
+          "text": "Ваши контроллеры пока не поддерживаются. Управление может работать неправильно.",
           "spriteAddress": "Bas.Sprite.Input.OculusTouch.Menu[InputMenuOculus]",
           "videoAddress": null
         },
@@ -5478,7 +5478,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArenaDescription",
-          "text": "Амфитеатр, построенный сотни лет назад для театральных боев. Маленький, но подходящий для интимных схваток.",
+          "text": "Амфитеатр, построенный сотни лет назад для театральных боев. Маленький, но подходящий для близких столкновений.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5492,7 +5492,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CanyonDescription",
-          "text": "Затерянный храм, построенный в каньоне. Между несколькими мостами внизу находится очень опасный спуск к реке.",
+          "text": "Затерянный храм, построенный в каньоне. Между несколькими мостами находится очень опасный обрыв к реке внизу.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5506,7 +5506,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CitadelDescription",
-          "text": "Цитадель, построенная на склоне горы. Имеет множество лестниц, ведущих на опасные высоты, и мост, ведущий через скалы к огромной башне.",
+          "text": "Цитадель, построенная на склоне горы. В ней много лестниц, ведущих на опасную высоту, и мост, ведущий через скалы к величественной башне.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5520,7 +5520,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutpostDescription",
-          "text": "Старый, перепрофилированный аванпост на земле Эраден, оккупированный враждебными силами. Доберитесь до конца и украдите их добычу.",
+          "text": "Старый, перепрофилированный аванпост на земле Эраден, оккупированный врагами. Дойдите до конца и украдите их добычу.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5618,7 +5618,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianDescription",
-          "text": "Древние далгарские руины. Будьте готовы к долгому и коварному бегу по лабиринту.",
+          "text": "Древние далгарские руины. Будьте готовы к долгому и опасному бегу по лабиринту.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5646,7 +5646,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutpostLibraryDescription",
-          "text": "Старая и довольно плотная библиотека, наполненная забытыми книгами..",
+          "text": "Старая и довольно плотная библиотека, забитая забытыми книгами..",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5701,161 +5701,161 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Game Version",
-          "text": "Game Version",
+          "text": "Версия игры",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Mod Type",
-          "text": "Mod Type",
+          "text": "Тип модификации",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Weapons",
-          "text": "Weapons",
+          "text": "Оружие",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Armor",
-          "text": "Armor",
+          "text": "Броня",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Spells",
-          "text": "Spells",
+          "text": "Заклинания",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Graphics",
-          "text": "Graphics",
+          "text": "Графика",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Maps",
-          "text": "Maps",
+          "text": "Локации",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Gore Mods",
-          "text": "Gore Mods",
+          "text": "Модификации расчленёнки",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Overhaul / QOL",
-          "text": "Overhaul / QOL",
+          "text": "Глобальные моды / Удобства",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Enemies",
-          "text": "Enemies",
+          "text": "Враги",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Avatars",
-          "text": "Avatars",
+          "text": "Аватары",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Waves / Game Mode",
-          "text": "Waves / Game Mode",
+          "text": "Волны / Игровые режимы",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Audio",
-          "text": "Audio",
+          "text": "Аудио",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MegaMod / Compilation",
-          "text": "MegaMod / Compilation",
+          "text": "Мегамод / Коллекция",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Weapon",
-          "text": "Weapon",
+          "text": "Оружие",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Swords",
-          "text": "Swords",
+          "text": "Мечи",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Daggers",
-          "text": "Daggers",
+          "text": "Клинки",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Guns",
-          "text": "Guns",
+          "text": "Огнестрел",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Sabers",
-          "text": "Sabers",
+          "text": "Сабли",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Axes",
-          "text": "Axes",
+          "text": "Топоры",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Blunt",
-          "text": "Blunt",
+          "text": "Тупое оружие",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Bows",
-          "text": "Bows",
+          "text": "Луки",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Fantasy",
-          "text": "Fantasy",
+          "text": "Мифическое",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5869,49 +5869,49 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Miscellaneous / Items",
-          "text": "Miscellaneous / Items",
+          "text": "Разное / Предметы",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Others",
-          "text": "Others",
+          "text": "Другое",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "WIP",
-          "text": "WIP",
+          "text": "В разработке",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Test Mod",
-          "text": "Test Mod",
+          "text": "Тестовый мод",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Show mature content",
-          "text": "Show mature content",
+          "text": "Показывать взрослый контент",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Scripting / Scripts",
-          "text": "Scripting / Scripts",
+          "text": "Сценарии / Скрипты",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MatureCategory",
-          "text": "Mature Content",
+          "text": "Взрослый контент",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5925,14 +5925,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Comp 2023",
-          "text": "Comp 2023",
+          "text": "Сборка 2023",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Comp 2024",
-          "text": "Comp 2024",
+          "text": "Сборка 2024",
           "spriteAddress": null,
           "videoAddress": null
         }
@@ -5945,70 +5945,70 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Quality Assurance",
-          "text": "Quality Assurance",
+          "text": "Контроль качества",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Pr Manager",
-          "text": "Pr Manager",
+          "text": "Менеджер по связям с общественностью",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Programmer",
-          "text": "Programmer",
+          "text": "Программист",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Producer",
-          "text": "Producer",
+          "text": "Продюсер",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Game Designer",
-          "text": "Game Designer",
+          "text": "Геймдизайнер",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Level Designer",
-          "text": "Level Designer",
+          "text": "Дизайнер уровней",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Environment Artist",
-          "text": "Environment Artist",
+          "text": "Художник окружения",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Character Artist",
-          "text": "Character Artist",
+          "text": "Художник персонажей",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Concept Artist",
-          "text": "Concept Artist",
+          "text": "Концепт-художник",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Sound Designer",
-          "text": "Sound Designer",
+          "text": "Звукорежиссер",
           "spriteAddress": null,
           "videoAddress": null
         }
@@ -6084,21 +6084,21 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemLightning",
-          "text": "Кристалл молнии\nВыпускайте молнии из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью усиленного оружия.",
+          "text": "Кристалл молнии\nВыпускайте молнии из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью зачарования оружия.",
           "spriteAddress": null,
           "videoAddress": "Bas.Video.Infuser.Lightning"
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemFire",
-          "text": "Огненный кристалл\nЗапускайте огненные шары на дальней дистанции, поджигайте врагов и расплавляйте броню горячими, пропитанными огнем клинками.",
+          "text": "Огненный кристалл\nМетайтесь дальнобойными огненными шарами, поджигайте врагов и расплавляйте броню горячими, зачарованными огнем клинками.",
           "spriteAddress": null,
           "videoAddress": "Bas.Video.Infuser.Fire"
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemNoMagic",
-          "text": "Нет Кристалла\nНачните с чистого листа, чтобы обрести силу волшебства.",
+          "text": "Нет Кристалла\nНачните с чистого листа, чтобы обрести силу колдовства.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6140,7 +6140,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemGravityDesc",
-          "text": "Изменяйте гравитацию, чтобы толкать врагов и себя по полю боя. Улучшайте тяжелое и дробящее оружие, чтобы сбивать врагов с ног.",
+          "text": "Изменяйте гравитацию, чтобы толкать врагов и себя по полю боя. Зачаровывайте ею тяжелое и дробящее оружие, чтобы сбивать врагов с ног.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6154,7 +6154,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemLightningDesc",
-          "text": "Выпустите молнию из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью усиленного оружия.",
+          "text": "Пускайте молнии из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью зачарование оружия.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6168,7 +6168,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemFireDesc",
-          "text": "Запускайте огненные шары дальнего действия, поджигайте врагов и расплавляйте броню горячими, пропитанными огнем клинками.",
+          "text": "Метайтесь дальнобойными огненными шарами, поджигайте врагов и расплавляйте броню горячими, зачарованными огнем клинками",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6217,28 +6217,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SandboxLoadoutEverythingDesc",
-          "text": "Начните со всеми заклинаниями и навыками. Может быть хаотичным!",
+          "text": "Начните со всеми заклинаниями и навыками. Да будет хаос!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SandboxLoadoutFireTitle",
-          "text": "Огненный колдун",
+          "text": "Колдун огня",
           "spriteAddress": null,
           "videoAddress": ""
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SandboxLoadoutLightningTitle",
-          "text": "Молниеносный колдун",
+          "text": "Колдун молний",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SandboxLoadoutGravityTitle",
-          "text": "Гравитационный колдун",
+          "text": "Колдун гравитации",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6293,7 +6293,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DropAllValuables",
-          "text": "Бросить все ценные вещи",
+          "text": "Бросить все ценности",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -9473,7 +9473,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianPreservartionInnerCircle",
-          "text": "Общество сохранения далгарского наследия / Обучение внутреннего круга \n\tЕсли вы читаете это, значит, вас одобрил сам Раэин для вступления во внутренний круг Общества сохранения далгарского наследия. \n\tВаш доступ во внутренний круг будет проходить постепенно, так как то, что вы узнаете, будет трудно усвоить сразу. \n\tПрочитайте следующие книги в указанном порядке. Вы найдете их в закрытом разделе нашей библиотеки.\n- Кайосва: Астрономический феномен вне религиозных соображений\n- Кхеменет: связь фактов с легендами\n- ПМН: следы далгарианских технологий\n- Сосуды и истощение энергии: Что знали Далгарианцы\n\tДержите свои исследования в секрете и задавайте любые вопросы только Раэину. \nОсторожность крайне важна.",
+          "text": "Общество сохранения далгарского наследия / Обучение внутреннего круга \n\tЕсли вы читаете это, значит, вас одобрил сам Раэин для вступления во внутренний круг Общества сохранения далгарского наследия. \n\tВаш доступ во внутренний круг будет проходить постепенно, так как то, что вы узнаете, будет трудно усвоить сразу. \n\tПрочитайте следующие книги в указанном порядке. Вы найдете их в закрытом разделе нашей библиотеки.\n- Кайосва: Астрономический феномен вне религиозных соображений\n- Кхеменет: связь фактов с легендами\n- СУЭ: следы далгарианских технологий\n- Сосуды и истощение энергии: Что знали Далгарианцы\n\tДержите свои исследования в секрете и задавайте любые вопросы только Раэину. \nОсторожность крайне важна.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -9927,7 +9927,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "KhemenetEpic3_1",
-          "text": "\tЕсли перед ними действительно Кхеменет, то они смогут схватить меч и, передав в него свою колдовскую энергию, объединить Маяк-Наа и Лайяк-Наа. \nИ действительно, это был Кхеменет. \nОсторожной рукой они дотянулись до меча и крепко сжали его. Казалось, что в этот момент через них проходит вся колдовская энергия мира.",
+          "text": "\tЕсли перед ними действительно Кхеменет, то они смогут схватить меч и, передав в него свою колдовскую энергию, объединить Майак-Наа и Лайак-Наа. \nИ действительно, это был Кхеменет. \nОсторожной рукой они дотянулись до меча и крепко сжали его. Казалось, что в этот момент через них проходит вся колдовская энергия мира.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10004,7 +10004,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StructuralReportofthePMN2",
-          "text": "Годовой отчет о целостности структуры - Компания Syndanex - 5245 AA – 2/3\n\tЧтобы сохранить структурную целостность ПМН до предстоящего близкого столкновения с нашей Нейтронной звездой примерно через 5000 лет, мы должны полагаться на неинфузированные технологии. \n\tНовые технологии, которые мы разрабатываем, предназначены для поддержки критически важных компонентов, которые не смогут полагаться на магическое вливание для поддержания своего состояния. Поскольку от этого зависит выживание нашей планеты, мы рекомендуем направить все усилия на исследования и производство решений для поддержания ПМН в стабильном состоянии в течение очень длительного периода времени.",
+          "text": "Годовой отчет о целостности структуры - Компания Syndanex - 5245 AA – 2/3\n\tЧтобы сохранить структурную целостность СУЭ до предстоящего близкого столкновения с нашей Нейтронной звездой примерно через 5000 лет, мы должны полагаться на неинфузированные технологии. \n\tНовые технологии, которые мы разрабатываем, предназначены для поддержки критически важных компонентов, которые не смогут полагаться на магическое вливание для поддержания своего состояния. Поскольку от этого зависит выживание нашей планеты, мы рекомендуем направить все усилия на исследования и производство решений для поддержания СУЭ в стабильном состоянии в течение очень длительного периода времени.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10088,7 +10088,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianRealistLeaderMeetingRevealsecondimbue_2",
-          "text": "Не обращайте внимания на инструкции, просто собственноручно подключите три предохранител камеры с зачарованием Кондаларима из вашей собственной руки. Вы сэкономите целый час на процедуре. Отблагодарите позже! \n- Я не совсем понимаю, что с этим делать, но я сообщу об этом своему техническому персоналу. Уверен, они сочтут это полезным. \n- Короче говоря, вы, вероятно, сможете отключить стержень с сердечником ПМН гораздо быстрее, чем мы изначально ожидали. Это должно значительно упростить нашу задачу. \n- Понятно. Спасибо вам за ваш вклад. Правда восторжествует.",
+          "text": "Не обращайте внимания на инструкции, просто собственноручно подключите три предохранител камеры с зачарованием Кондаларима из вашей собственной руки. Вы сэкономите целый час на процедуре. Отблагодарите позже! \n- Я не совсем понимаю, что с этим делать, но я сообщу об этом своему техническому персоналу. Уверен, они сочтут это полезным. \n- Короче говоря, вы, вероятно, сможете отключить стержень с сердечником СУЭ гораздо быстрее, чем мы изначально ожидали. Это должно значительно упростить нашу задачу. \n- Понятно. Спасибо вам за ваш вклад. Правда восторжествует.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10200,7 +10200,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Dalgarian1TutorialShaft",
-          "text": "ПМН Об-л-ж--а-ие с--жня D. До---- -----щ-н ",
+          "text": "СУЭ Об-л-ж--а-ие с--жня D. До---- -----щ-н ",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10277,147 +10277,147 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProceduresTitle",
-          "text": "Отключение мейнфрейма PMN Power Convergence 1/5",
+          "text": "Отключение модуля управления энергослиянием СУЭ 1/5",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures",
-          "text": "Syndanex — Руководство по эксплуатации и техническому обслуживанию ПМН уровня 3\n1.15a Аварийное отключение мэйнфрейма конвергенции мощности\n\tИСПОЛЬЗОВАТЕЛЬСКИЙ СЛУЧАЙ\n1. Hádlezha Возгорание в любом подмодуле \n2. Воздействие на персонал стержня с сердечником Синдано \n3. На этапе стрельбы обнаружено смещение вытяжной камеры \n\tПРЕДВАРИТЕЛЬНЫЕ ПРЕДУПРЕЖДЕНИЯ \n\tЭта процедура обходит 2 проверки структурной безопасности и создает чрезмерную нагрузку на основные и второстепенные опорные конструкции Занкаалрека.",
+          "text": "Syndanex — Руководство по эксплуатации и техническому обслуживанию СУЭ уровня 3\n1.15a Аварийное отключение модуля управления энергослияением\n\tПРИМЕНЕНИЕ\n1. Возгорание Хадлеза в любом подмодуле \n2. Подвержение персонала воздействию сердечного стержня Синдано \n3. Обнаружение несоответствия выравнивания камеры истощения во время фазы запуска \n\tПРЕДВАРИТЕЛЬНЫЕ ПРЕДУПРЕЖДЕНИЯ \n\tЭта процедура обходит 2 структурных проверки безопасности и создает чрезмерную нагрузку на основные и вторичные поддерживающие структуры Занкаальрек.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_1Title",
-          "text": "Отключение мейнфрейма PMN Power Convergence 2/5",
+          "text": "Отключение модуля управления энергослиянием СУЭ 2/5",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_1",
-          "text": "При выполнении этого аварийного отключения необходимо соблюдать АБСОЛЮТНУЮ осторожность, поскольку любая неисправность во внутренних сетях Хадлежа опорной конструкции потенциально может привести к разрушению всей конструкции ПМН.    \n\tЭтот недостаток концепции был обнаружен слишком поздно при строительстве; к сожалению, обходного пути нет. Поэтому, прежде чем войти в камеру с активной зоной, убедитесь, что показания сетевых датчиков являются номинальными. В противном случае выполнение этой процедуры настоятельно не рекомендуется и должно выполняться только в случаях абсолютной необходимости.",
+          "text": "При выполнении этого аварийного отключения необходимо соблюдать АБСОЛЮТНУЮ осторожность, поскольку любая неисправность во внутренних сетях Хадлежа опорной структуры потенциально может привести к разрушению всей конструкции СУЭ.    \n\tЭтот недостаток концепции был обнаружен слишком поздно при строительстве. К сожалению, обходного пути нет. Поэтому, прежде чем войти в камеру с активной зоной, убедитесь, что показания сетевых датчиков являются номинальными. В противном случае выполнение этой процедуры настоятельно не рекомендуется и должно проводиться только в случаях крайней необходимости.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_2Title",
-          "text": "Отключение мейнфрейма PMN Power Convergence 3/5",
+          "text": "Отключение модуля управления энергослиянием СУЭ 3/5",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_2",
-          "text": "Syndanex - Руководство по эксплуатации и техническому обслуживанию PMN уровня 3\n1.15a Аварийное отключение мэйнфрейма конвергенции мощности\n\tНЕОБХОДИМЫЕ ИНСТРУМЕНТЫ И ПЕРСОНАЛ\n\tДля оптимального выполнения операции требуются три специалиста Sorcetechs; однако эту процедуру может выполнить один человек за большее время. Поскольку это задумано как экстренная процедура, для достижения оптимального результата рекомендуется иметь полный персонал. \n\tСпециалисту Sorcetechs потребуются: \n- Инструменты для имплантации Кондаларима \n- Инструменты для имплантации Занкаларима \n- Инструменты для имплантации Вайуларима\n\tЭти инструменты необходимы для прошивки всех субмодулей. Пожалуйста, обратитесь к справочным листам модулей, чтобы узнать, как их следует прошивать.",
+          "text": "Syndanex - Руководство по эксплуатации и техническому обслуживанию СУЭ уровня 3\n1.15a Аварийное отключение модуля для управления энергослиянием\n\tТРЕБУЕМЫЕ ИНСТРУМЕНТЫ И ПЕРСОНАЛ\n\tДля оптимального выполнения операции требуются три специалиста по маготехнике; однако процедура может быть выполнена одним человеком за более длительное время. Поскольку это аварийная процедура, рекомендуется полное укомплектование для достижения наилучшего результата. \n\tСпециалисту по маготехнике потребуются: \n- Инструменты для начаровывания Кондаларима \n- Инструменты для начаровывания Занкаларима \n- Инструменты для начаровывания Вайуларима\n\tЭти инструменты необходимы для начаровывания всех субмодулей. Пожалуйста, обратитесь к справочным листам модулей, чтобы узнать, как их следует начаровывать.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_3Title",
-          "text": "Отключение мейнфрейма PMN Power Convergence 4/5",
+          "text": "Отключение модуля управления энергослиянием СУЭ 4/5",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_3",
-          "text": "Syndanex - Руководство по эксплуатации и техническому обслуживанию PMN уровня 3\n1.15a Аварийное выключение мейнфрейма конвергенции мощности\n\tПРОЦЕДУРА\n\tДля выполнения отключения необходимо прошить три модуля в правильном порядке. Этот приказ имеет решающее значение для успешного завершения работы. Несоблюдение правильного порядка приведет к отмене отключения. \n- Прошивка модуля ламинарного ускорителя.\n- Прошивка модуля импульсно-коллапсной камеры.",
+          "text": "Syndanex - Руководство по эксплуатации и техническому обслуживанию СУЭ уровня 3\n1.15a Аварийное отключение модуля управления энергослиянием\\n\tПРОЦЕДУРА\n\tДля выполнения отключения необходимо начаровать три модуля в правильном порядке. Порядок имеет критическое значение для успешного выключения. Несоблюдение правильного порядка приведет к тому, что выключение будет отменено. \n- Прошить модуль ламинарного ускорителя\n- Прошить модуль импульсно-коллапсирующей камеры",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_4Title",
-          "text": "Отключение мейнфрейма PMN Power Convergence 5/5",
+          "text": "Отключение модуля управления энергослиянием СУЭ 5/5",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_4",
-          "text": "- Прошить модуль распределения плазменной суперпозиции\n\tПосле завершения прошивки основной ускоритель должен отключиться с характерным звуком (см. Учебное пособие для уровня 1-1.5). \n\tСтержень Конвергентного ядра станет безопасным для взаимодействия всего через несколько секунд. Однако из-за возможных неисправностей конденсатора убедитесь, что прошло не менее двух минут, прежде чем приступать к каким-либо процедурам снятия стержня.",
+          "text": "- Прошить модуль распределения плазменной суперпозиции\n\tПосле завершения прошивки основной ускоритель должен отключиться с характерным звуком (см. Руководство для уровня 1-1.5). \n\tСердечный стержень Слияния будет безопасен для взаимодействия только в течение нескольких секунд. Однако, из-за возможных неисправностей Конденсатора, пожалуйста, убедитесь, что прошло не менее двух минут, прежде чем пытаться извлечь стержень.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbueTitle",
-          "text": "Фатальный инцидент (1/4)",
+          "text": "Происшествие со смертельным исходом (1/4)",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbue_1",
-          "text": "Syndanex — Отчет об инциденте A56 — 11.23 B.A. \nВремя происшествия: 5u23 \nТип происшествия: смертельная травма оператора \nПричина происшествия: подлежит установлению — подозрение на несанкционированное использование ручного воздействия на предохранитель",
+          "text": "Syndanex — Отчет об происшествии  A56 — 11.23 B.A. \nВремя происшествия: 5u23 \nТип происшествия: травма оператора со смертельным исходом \nПричина происшествия: подлежит установлению — Предполагается несанкционированное использование ручного начарования предохранителя",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbueTitle_1",
-          "text": "Фатальный инцидент (2/4)",
+          "text": "Происшествие со смертельным исходом (2/4)",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbue_2",
-          "text": "Описание инцидента: \n\tОб инциденте пока сообщили только очевидцы. Импринтеры управления памятью Валкентерака укрепляются, поскольку об этом сообщается для получения более подробной информации об инциденте.\n\tОчевидцы сообщают, что оператор Фруарен Фхрандкра пытался вручную наполнить предохранители Распределителя плазменной суперпозиции вместо использования своего инструмента наполнения, скорее всего, поскольку способ обойти протоколы безопасности.",
+          "text": "Описание происшествия: \n\t\tНа данный момент происшествие было зафиксировано только очевидцами. Контролеры памяти Вхалкентерак консолидируются, чтобы получить более подробную информацию о происшествии.\n\tОчевидцы сообщают, что оператор Фруарен Фхрандкра пытался вручную начаровать предохранители  Плазматического распределителя суперпозиции вместо использования своего начаровательного инструмента, скорее всего, для обхода протоколов безопасности.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbueTitle_2",
-          "text": "Фатальный инцидент (3/4)",
+          "text": "Происшествие со смертельным исходом (3/4)",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbue_3",
-          "text": "Сообщается, что они перепутали необходимое наполнение и правильно наполнили первый предохранитель Ваюларимом, а второй - Занкаларимом, но вместо Занкаларима для третьего они, к сожалению, снова использовали Ваюларим. Это создало Гравитационно-плазматическую ударную волну, которая разорвала их тело на три части: грудную клетку и шею.",
+          "text": "Сообщается, что они перепутали требуемое начарование и начаровали правильно первый предохранитель Ваюларимом и второй Занкаримом, но вместо того чтобы снова использовать Занкарим для третьего, они, к сожалению, использовали Ваюларим. Это создало гравитационную плазматическую ударную волну, которая разорвала их тело на три части в области грудной клетки и шеи.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbueTitle_3",
-          "text": "Фатальный инцидент (4/4)",
+          "text": "Происшествие со смертельным исходом (4/4)",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbue_4",
-          "text": "Из-за плазматической природы ударной волны раны мгновенно сгорели и закрылись, что сделало невозможным проведение какой-либо медицинской операции по восстановлению их тела. Большая часть их крови также закипела во время процесса, в результате чего их тело обожгло до неузнаваемости. Операторы Sorcetechs, присутствовавшие в момент инцидента, находятся в состоянии шока и в настоящее время госпитализированы в связи с тяжелым травматическим стрессом.",
+          "text": "Из-за плазматической природы ударной волны раны мгновенно обгорели и закрылись, что сделало невозможным проведение медицинской операции по восстановлению их тела. Значительная часть их крови также закипела во время процесса, что обожгло их тело до неузнаваемости. Операторы маготехники, присутствовавшие на момент происшествия, находятся в состоянии шока и в настоящее время госпитализированы с тяжелым травматическим стрессом.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianConstructionCompanyModuleMap1",
-          "text": "Приложение 1. Схема мейнфрейма конвергенции мощности 1/3",
+          "text": "Приложение 1. Схема модуля управления энергослиянием 1/3",
           "spriteAddress": "Bas.UI.DalgFuseBlueprint_01",
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianConstructionCompanyModuleMap2",
-          "text": "Приложение 1. Схема мэйнфрейма конвергенции мощности 2/3",
+          "text": "Приложение 1. Схема модуля управления энергослиянием 2/3",
           "spriteAddress": "Bas.UI.DalgFuseBlueprint_02",
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianConstructionCompanyModuleMap3",
-          "text": "Приложение 1. Схема мейнфрейма конвергенции мощности 3/3",
+          "text": "Приложение 1. Схема модуля управления энергослиянием 3/3",
           "spriteAddress": "Bas.UI.DalgFuseBlueprint_03",
           "videoAddress": null
         },
@@ -10473,7 +10473,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Dalgarian - Tavheda Ghalendo Right Of Reply_2",
-          "text": "Я считаю, что наши дети умнее этого. И я клянусь сжечь все истории, призванные обмануть их и рассказать им и всем остальным, пока это не станет такой же историей, как любая другая. \n\tНет, Хеменета никогда не существовало! Нет, не существует такого понятия, как Маяк Наа или Лаяк Наа! Это истории, которым место в театре; место, в котором Ломеши Кавенджала преуспевает гораздо больше, чем в создании крупномасштабной пропагандистской машины!",
+          "text": "Я считаю, что наши дети умнее этого. И я клянусь сжечь все истории, призванные обмануть их и рассказать им и всем остальным, пока это не станет такой же историей, как любая другая. \n\tНет, Хеменета никогда не существовало! Нет, не существует такого понятия, как Майак Наа или Лайак Наа! Это истории, которым место в театре; место, в котором Ломеши Кавенджала преуспевает гораздо больше, чем в создании крупномасштабной пропагандистской машины!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10543,7 +10543,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianTalshiInterview2",
-          "text": "- Не циничен ли ваш подход? Многие считают, что наш взгляд на будущее слишком негативен.\n\tЭто безопасный подход. Тот, который рассматривает худшие сценарии на благо человечества. \n\tЯ восхищаюсь кандидатами, которые предложили себя в качестве Сосудов ПМН. Проявленная ими воля и преданность делу просто впечатляют. Если наше общество позволило таким блестящим душам существовать, мы должны задуматься о том, какие усилия были необходимы, чтобы добиться этого. \n\tЯ считаю, что наше будущее мрачно, и я считаю, что это безопасно, а не цинично. Это гарантирует, что ничего не пойдет не так, ничего... \n\tКроме того, я считаю уместным позволить испорченному разуму бессознательно пожертвовать собой. Я ненавижу тех, кто ищет власти ради власти.",
+          "text": "- Не циничен ли ваш подход? Многие считают, что наш взгляд на будущее слишком негативен.\n\tЭто безопасный подход. Тот, который рассматривает худшие сценарии на благо человечества. \n\tЯ восхищаюсь кандидатами, которые предложили себя в качестве Сосудов СУЭ. Проявленная ими воля и преданность делу просто впечатляют. Если наше общество позволило таким блестящим душам существовать, мы должны задуматься о том, какие усилия были необходимы, чтобы добиться этого. \n\tЯ считаю, что наше будущее мрачно, и я считаю, что это безопасно, а не цинично. Это гарантирует, что ничего не пойдет не так, ничего... \n\tКроме того, я считаю уместным позволить испорченному разуму бессознательно пожертвовать собой. Я ненавижу тех, кто ищет власти ради власти.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10585,7 +10585,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianTalshiInterview3_2",
-          "text": "Когда расстояние становится минимальным, накопление энергии в кристаллах больше невозможно сдерживать, что приводит к экстремальным катастрофическим реакциям на поверхности планеты. Речь идет о сожжении целых континентов. Мы говорим о метеорологических эффектах, находящихся за пределами нашего понимания. \n\tНаш единственный способ выжить — это исчерпать всю лишнюю энергию нашей планеты. Именно для этого существует ПМН, и пока у нас нет альтернативы. Потеря ПМН не сулит человечеству светлого будущего.",
+          "text": "Когда расстояние становится минимальным, накопление энергии в кристаллах больше невозможно сдерживать, что приводит к экстремальным катастрофическим реакциям на поверхности планеты. Речь идет о сожжении целых континентов. Мы говорим о метеорологических эффектах, находящихся за пределами нашего понимания. \n\tНаш единственный способ выжить — это исчерпать всю лишнюю энергию нашей планеты. Именно для этого существует СУЭ, и пока у нас нет альтернативы. Потеря СУЭ не сулит человечеству светлого будущего.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11360,7 +11360,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TheEyePropagandaGuidelinestoThird",
-          "text": "Чистокровные, \n\tКогда вы вступите в наши ряды и начнете обучение, чтобы стать Послушниками, позвольте мне напомнить вам заповеди, по которым мы живем. Если вы нарушите любой из них, вас казнят. \n\t1. Вы должны казнить нечистую кровь, когда есть возможность. Независимо от вашего отношения к нечистым, отказ казнить их является оскорблением Кайосвы, поскольку она наблюдает за нашими действиями. Только те, кто сможет подключиться к Маяк Наа, одержат победу.",
+          "text": "Чистокровные, \n\tКогда вы вступите в наши ряды и начнете обучение, чтобы стать Послушниками, позвольте мне напомнить вам заповеди, по которым мы живем. Если вы нарушите любой из них, вас казнят. \n\t1. Вы должны казнить нечистую кровь, когда есть возможность. Независимо от вашего отношения к нечистым, отказ казнить их является оскорблением Кайосвы, поскольку она наблюдает за нашими действиями. Только те, кто сможет подключиться к Майак Наа, одержат победу.",
           "spriteAddress": null,
           "videoAddress": null
         },
