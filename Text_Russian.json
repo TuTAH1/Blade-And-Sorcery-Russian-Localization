@@ -485,7 +485,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "22",
-          "text": "Некоторые предметы могут быть пропитаны магией той же рукой, в которой вы их держите, например, некоторые щиты и метательный нож. Руку с луком также можно использовать для пропитывания стрел.",
+          "text": "Некоторые предметы могут быть начарованы той же рукой, в которой вы их держите, например, некоторые щиты и метательный нож. Руку с луком также можно использовать для начаровывания стрел.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -499,7 +499,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "24",
-          "text": "Изгои — это полуорганизованная группа, на которую охотится Королевство Эраден за их неустанный поиск и употребление кристаллов; их единственная цель, которая поддерживает их организацию.",
+          "text": "Разбойники — это полуорганизованная группа, на которую охотится Королевство Эраден за их неустанный поиск и употребление кристаллов; их единственная цель, которая поддерживает их организацию.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -527,7 +527,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "28",
-          "text": "Удерживая в другой руке усиленный посох, вы увеличиваете скорость заряда и эффективность заклинания.",
+          "text": "Держа в руке начарованный посох, вы увеличиваете скорость зарядки и эффективность заклинания в другой руке.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -555,7 +555,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "32:Gravity=2",
-          "text": "Ускоренный Прыжок имеет уменьшающуюся отдачу с каждым ускорением, которое вы делаете перед касанием земли. Убедитесь, что вы сможете совершить этот прыжок!",
+          "text": "Усиленный Прыжок имеет уменьшающуюся отдачу с каждым ускорением, которое вы делаете перед касанием земли. Убедитесь, что вы сможете совершить этот прыжок!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -569,21 +569,21 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "34:Mind,Fire",
-          "text": "Раскрутите оружие, пропитанное Расплавленной Дугой, и создайте переносной дождь из горящих углей!",
+          "text": "Раскрутите оружие, начарованное Расплавленной Дугой, и создайте переносной дождь из горящих углей!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "35:Mind=2,Gravity=2",
-          "text": "Сочетание Ускоренного Прыжка, Невесомого Ускорения и Точная Концентрация позволяет вам безнаказанно стрелять стрелами сверху.",
+          "text": "Сочетание Усиленного Прыжка, Невесомого Ускорения и Точная Концентрация позволяет вам безнаказанно стрелять стрелами сверху.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "37:Fire|Lightning",
-          "text": "С трудом справляетесь с щитами? Усиленная Огненная Мощь, Кража Оружия и Статическое Обезоруживание позволят вам обезоружить врагов - или пронзить их насквозь оружием, пропитанным огнем!",
+          "text": "С трудом справляетесь с щитами? Усиленная Огненная Мощь, Кража Оружия и Статическое Обезоруживание позволят вам обезоружить врагов - или пронзить их насквозь начарованным огнём оружием!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -604,14 +604,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "40:Mind=2,Body=2",
-          "text": "Увеличение силы в режиме «Гиперфокус» делает Force Punch и Rocket Punch намного более эффективными!",
+          "text": "Увеличение силы в режиме «Гиперфокус» делает Силовой удар и Ракетный удар намного более эффективными!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "41:Fire=3",
-          "text": "Объедините «Пожар», «Вспышку зажигания» и «Раздуйте пламя», чтобы распространить огонь на всех своих противников, а затем используйте «Рой детонации», чтобы уничтожить их самонаводящимися огненными шарами!",
+          "text": "Объедините Пожар, Зажигателный взрыв и Раздувание пламени, чтобы распространить огонь на всех своих противников, а затем используйте Взрывной рой, чтобы уничтожить их самонаводящимися огненными шарами!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -625,21 +625,21 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "43:Body|Gravity=2",
-          "text": "Flykick, Dive Strike и Ускоренный Прыжок — отличные способы ускорить прохождение подземелья!",
+          "text": "Волшебный пендель, Пикирующий удар и Усиленный Прыжок — отличные способы ускорить прохождение подземелья!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "44:Gravity=2",
-          "text": "Riptide действует на любого противника, который сбит с ног, будь то от вашего гравитационного толчка или от любого другого источника.",
+          "text": "Сильный поток действует на любого противника, который сбит с ног, будь то от вашего гравитационного толчка или от любого другого источника.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "45:Fire",
-          "text": "Удар хрустального наконечника пропитанного огнём посоха запускает направленную очередь самонаводящихся огненных шаров или удар по основанию посоха для радиального взрыва!",
+          "text": "Удар хрустального наконечника начарованного огнём посоха запускает направленную очередь самонаводящихся огненных шаров или удар по основанию посоха для радиального взрыва!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -660,7 +660,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "48:Lightning=2",
-          "text": "Эффекты от Поглощения Заряда передаются между врагами и металлическими предметами, пока активна «Цепная молния»!",
+          "text": "Эффекты от Поглощения Заряда передаются между врагами и металлическими предметами, пока активна Цепная молния!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -674,7 +674,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "50:Body=3",
-          "text": "Объедините Mighty Kick и Flykick, чтобы отбросить врагов далеко-далеко!",
+          "text": "Объедините Великий пинок и Волшебный пендель, чтобы отбросить врагов далеко-далеко!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -702,7 +702,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "54:Gravity",
-          "text": "Оружие, наполненное гравитацией, легче и проще в использовании. Имейте это в виду при использовании большого или тяжелого оружия!",
+          "text": "Оружие, начарованное гравитацией, легче и проще в использовании. Имейте это в виду при использовании большого или тяжелого оружия!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2653,7 +2653,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InfiniteImbue",
-          "text": "Бесконечное наполнение",
+          "text": "Бесконечное начарование",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4823,7 +4823,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Outlaws (T0)",
-          "text": "Преступники (T0)",
+          "text": "Разбойники (T0)",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5234,224 +5234,224 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Consumables",
-          "text": "Consumables",
+          "text": "Расходники",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Valuables",
-          "text": "Valuables",
+          "text": "Ценности",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Unknown",
-          "text": "Misc",
+          "text": "Мелочи",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Tools",
-          "text": "Tools",
+          "text": "Инструменты",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NotAllowedToStoreHint",
-          "text": "Storing %1 not allowed.",
+          "text": "Такую вещь как %1 нельзя всунуть в инвентарь",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CategoryFullHint",
-          "text": "%1 категория заполнена.",
+          "text": "%1 заполнены.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StoreItemHint",
-          "text": "Store %1.",
+          "text": "Поместить %1 в инвентарь.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DumpAllContentHint",
-          "text": "Выгрузить все содержимое (Удерживать).",
+          "text": "Бросить всё содержимое (Удерживать).",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DumpCategoryContentHint",
-          "text": "Выгрузить содержимое %1 (удержать).",
+          "text": "Бросить все %1 (Удерживать).",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionOffsetLR",
-          "text": "Right / Left",
+          "text": "Вправо / Влево",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionOffsetDU",
-          "text": "Down / Up",
+          "text": "Вниз / Вверх",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionOffsetBF",
-          "text": "Back / Front",
+          "text": "Назад / Вперёд",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionScale",
-          "text": "Scale",
+          "text": "Масштаб",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionSmokeOpacity",
-          "text": "Smoke opacity",
+          "text": "Непрозрачность дыма",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionAnchor",
-          "text": "Anchor",
+          "text": "Закрепление",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionAnchorHead",
-          "text": "Head",
+          "text": "Голова",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionAnchorChest",
-          "text": "Chest",
+          "text": "Грудь",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionAnchorHand",
-          "text": "Hand",
+          "text": "Рука",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionNextInputType",
-          "text": "Next",
+          "text": "Следующий",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionPreviousInputType",
-          "text": "Previous",
+          "text": "Предыдущий",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionSelectInputType",
-          "text": "Select",
+          "text": "Выбрать",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionLayouts",
-          "text": "Template",
+          "text": "Шаблон",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionLayoutChestCentered",
-          "text": "Chest Centered",
+          "text": "Грудь оцентрирована",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionLayoutHeadCentered",
-          "text": "Head Centered",
+          "text": "Голова оцентрирована",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionLayoutInHand",
-          "text": "In Hand",
+          "text": "В руке",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionLayoutHeadWithOffset",
-          "text": "Head With Offset",
+          "text": "Голова, со смещением",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionLayoutTiny",
-          "text": "Tiny",
+          "text": "Крошечный",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionEditCustomValues",
-          "text": "Edit values",
+          "text": "Редактировать",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CloseInventoryHint",
-          "text": "Close Inventory",
+          "text": "Закрыть инвернтарь",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InventoryOptionSensitivity",
-          "text": "Rotation Sensitivity",
+          "text": "Чувствительность вращения",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Weapons",
-          "text": "Weapons",
+          "text": "Оружие",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Apparels",
-          "text": "Apparel",
+          "text": "Одежда",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6084,14 +6084,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemLightning",
-          "text": "Кристалл молнии\nВыпускайте молнии из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью зачарования оружия.",
+          "text": "Кристалл молнии\nВыпускайте молнии из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью начарования оружия.",
           "spriteAddress": null,
           "videoAddress": "Bas.Video.Infuser.Lightning"
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemFire",
-          "text": "Огненный кристалл\nМетайтесь дальнобойными огненными шарами, поджигайте врагов и расплавляйте броню горячими, зачарованными огнем клинками.",
+          "text": "Огненный кристалл\nМетайтесь дальнобойными огненными шарами, поджигайте врагов и расплавляйте броню горячими, начарованными огнем клинками.",
           "spriteAddress": null,
           "videoAddress": "Bas.Video.Infuser.Fire"
         },
@@ -6154,7 +6154,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "StartingItemLightningDesc",
-          "text": "Пускайте молнии из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью зачарование оружия.",
+          "text": "Пускайте молнии из кончиков пальцев. Поражайте электрическим током и оглушайте врагов, заставляя их подчиняться, а также усиливайте свою молнию с помощью начарования оружия.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6376,28 +6376,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutlawsShardUsageTitle",
-          "text": "Как сделать молнию БЕЗОПАСНЫМ (1/2)",
+          "text": "Как сделать молнию БЕЗОПАСНЫМ СПОСОБОМ (1/2)",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutlawsShardUsage",
-          "text": "\tВчерашнее зрелище с молниями смутило всех нас.Если вы собираетесь использовать колдовство, то, наверное, сначала надо прочитайть книгу? Идиоты! Я всю ночь отдирал обугленные пальцы от пола. \n\n\t Вот как сделать молнию БЕЗОПАСНЫМ СПОСОБОМ:",
+          "text": "\tВчерашнее зрелище с молниями смутило всех нас. Если вы собираетесь использовать колдовство, то, наверное, сначала надо прочитайть книгу, нет? Идиоты! Я всю ночь отдирал обугленные пальцы от пола. \n\n\t Вот как сделать молнию БЕЗОПАСНЫМ СПОСОБОМ:",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutlawsShardUsage_2Title",
-          "text": "Как сделать молнию БЕЗОПАСНЫМ (2/2)",
+          "text": "Как сделать молнию БЕЗОПАСНЫМ СПОСОБОМ (2/2)",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutlawsShardUsage_2",
-          "text": "-Поглотите свои осколки. \n-Сконцентрируйтесь на кончиках пальцев, пока не почувствуете, будто крапива коснулась вашей ладони. \n-Направьте руку вверх. НЕ НА ЛИЦО. Поверить не могу, что это нужно проговаривать. \n-Если почувствуете запах гари, НЕМЕДЛЕННО ОСТАНОВИТЕСЬ, если только считать оставшиеся пальцы для вас не составляет большого труда.\n-И последнее, я не должен это повторять; НЕ увеличивайте использование осколков, пока полностью не освоите их эффекты. В прошлом году у Того-Кто-Останется-Безымянным случился несчастный случай с цепной молнией, в результате которого сгорело несколько хижин. Мы все знаем, о ком я говорю.",
+          "text": "-Поглотите свои осколки. \n-Сконцентрируйтесь на кончиках пальцев, пока не почувствуете, будто крапива коснулась вашей ладони. \n-Направьте руку вверх. НЕ НА ЛИЦО. Поверить не могу, что это нужно проговаривать. \n-Если почувствуете запах гари, НЕМЕДЛЕННО ОСТАНОВИТЕСЬ, если только способность считать на пальцах вам не сильно нужна.\n-И последнее, я не должен это повторять; НЕ увеличивайте использование осколков, пока полностью не освоите их эффекты. В прошлом году у Того-Кто-Останется-Безымянным случился несчастный случай с цепной молнией, в результате которого сгорело несколько хижин. Мы все знаем, о ком я говорю.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6607,7 +6607,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DoctorObservationJournal9",
-          "text": "Доктор Орлеан / Дневник экспедиции по оказанию медицинской помощи разбойникам / День 42\n\tВчера я снова принял несколько осколков.\n\t Я думал, что приму лишь небольшую дозу, чтобы провести медицинские эксперименты, но как только я принял немного, я подумал, что не будет никакого вреда, если я приму еще немного, так как это не большая доза. \n\tСкоро я обнаружил, что беру осколки снова и снова. Я стараюсь воздерживаться от новых порций, и это определенно требует усилий. \n\t Теперь я понимаю борьбу Разбойники. У них, конечно, очень тяжелая жизнь. Сопротивление желанию снова обрести силу - это огромное усилие даже на моем уровне.",
+          "text": "Доктор Орлеан / Дневник экспедиции по оказанию медицинской помощи разбойникам / День 42\n\tВчера я снова принял несколько осколков.\n\t Я думал, что приму лишь небольшую дозу, чтобы провести медицинские эксперименты, но как только я принял немного, я подумал, что не будет никакого вреда, если я приму еще немного, так как это не большая доза. \n\tСкоро я обнаружил, что беру осколки снова и снова. Я стараюсь воздерживаться от новых порций, и это определенно требует усилий. \n\t Теперь я понимаю борьбу разбойников. У них, конечно, очень тяжелая жизнь. Сопротивление желанию снова обрести силу - это огромное усилие даже на моем уровне.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6621,7 +6621,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DoctorObservationJournal10",
-          "text": "Доктор Орлеан / Дневник экспедиции по оказанию медицинской помощи разбойникам / День 43\n\tЯ встретился с одним из лидеров пиратов, Сакаряном Кравано. Я полагаю, что он может быть тем, кого в Эрадене называют «Бароном». \n\tОн признался, что не одобряет продажу кристаллов, и мы оба согласились, что единственный способ помочь Изгоям — это полностью прекратить продажу осколков. Он использует свое влияние на пиратского, чтобы выяснить, что можно сделать. Однако он упомянул, что это может пойти очень плохо, и он даже готов скрываться в худшем случае. Не ожидал, что у лидера пиратов могут быть такие моральные соображения.",
+          "text": "Доктор Орлеан / Дневник экспедиции по оказанию медицинской помощи разбойникам / День 43\n\tЯ встретился с одним из лидеров пиратов, Сакаряном Кравано. Я полагаю, что он может быть тем, кого в Эрадене называют «Бароном». \n\tОн признался, что не одобряет продажу кристаллов, и мы оба согласились, что единственный способ помочь Разбойникам — это полностью прекратить продажу осколков. Он использует свое влияние на пиратского, чтобы выяснить, что можно сделать. Однако он упомянул, что это может пойти очень плохо, и он даже готов скрываться в худшем случае. Не ожидал, что у лидера пиратов могут быть такие моральные соображения.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -6803,7 +6803,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SakaryanLetterToTheCaptains_1",
-          "text": "Если вы проезжали через Эраден, то, без сомнения, видели чрезвычайно высокий уровень военной активности. Королева сейчас одержима охотой на преступников и торговцев осколками, поэтому заниматься подобными делами в такое время - чистое безумие. \n\tСоздать врага Эрадена - значит навлечь гибель как на нашу Гильдию, так и на нас самих в отдельности. Я неоднократно пытался обратиться к молодому человеку Рамаяну, которого я знал, когда рос в Сентаре, но он уже не тот Рамаян, которого я знал. Он параноидальный, взбешённый, опустошенный. Я начинаю подозревать, что сам Рамаян, возможно, использует осколки.",
+          "text": "Если вы проезжали через Эраден, то, без сомнения, видели чрезвычайно высокий уровень военной активности. Королева сейчас одержима охотой на разбойников и торговцев осколками, поэтому заниматься подобными делами в такое время - чистое безумие. \n\tСоздать врага Эрадена - значит навлечь гибель как на нашу Гильдию, так и на нас самих в отдельности. Я неоднократно пытался обратиться к молодому человеку Рамаяну, которого я знал, когда рос в Сентаре, но он уже не тот Рамаян, которого я знал. Он параноидальный, взбешённый, опустошенный. Я начинаю подозревать, что сам Рамаян, возможно, использует осколки.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7159,7 +7159,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DevsaldTravelNoteTheEye3_1",
-          "text": "\tПоняв это, наш К'ран издал боевой клич. \n\tБлагодаря элементу внезапности на нашей стороне нам удалось уничтожить значительное количество их колдунов. Однако вскоре мы поняли, что нужно отступать. \n\tОни владеют оружием, пропитанным колдовством, способным резать руки и ноги как масло... способным отправить в полет самых тяжелых воинов. \n\tЭльгфаренм был полностью сожжен молнией, исходящей из топора, как будто сам Кондаларим вселился в его металлическую сердцевину, а затем его ноги и руки были разрублены огненным мечом. Похоже, эти артефакты сделаны из древнего, незнакомого нам металла. \n\tИнтересно, есть ли в руинах, которые мы сейчас населяем, сила, позволяющая нам ковать такое оружие? Мы должны найти средства, чтобы заполучить их и разгадать их секреты.",
+          "text": "\tПоняв это, наш К'ран издал боевой клич. \n\tБлагодаря элементу внезапности на нашей стороне нам удалось уничтожить значительное количество их колдунов. Однако вскоре мы поняли, что нужно отступать. \n\tОни владеют оружием, начарованным колдовством, способным резать руки и ноги как масло... способным отправить в полет самых тяжелых воинов. \n\tЭльгфаренм был полностью сожжен молнией, исходящей из топора, как будто сам Кондаларим вселился в его металлическую сердцевину, а затем его ноги и руки были разрублены огненным мечом. Похоже, эти артефакты сделаны из древнего, незнакомого нам металла. \n\tИнтересно, есть ли в руинах, которые мы сейчас населяем, сила, позволяющая нам ковать такое оружие? Мы должны найти средства, чтобы заполучить их и разгадать их секреты.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7284,14 +7284,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FirePathDescription",
-          "text": "Запускайте огненные шары на дальние расстояния, поджигайте врагов и плавьте броню раскаленными, пропитанными огнем клинками.",
+          "text": "Запускайте огненные шары на дальние расстояния, поджигайте врагов и плавьте броню раскаленными, начарованными огнем клинками.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LightningPathDescription",
-          "text": "Выпустите молнии из кончиков пальцев. Поражайте врагов электрическим током и ошеломляйте их, заставляя вставать на колени, а также усиливайте свою молнию с помощью усиленного оружия.",
+          "text": "Выпустите молнии из кончиков пальцев. Поражайте врагов электрическим током и ошеломляйте их, заставляя вставать на колени, а также усиливайте свою молнию с помощью начарованного оружия.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7312,7 +7312,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "AchronalBoltsDescription",
-          "text": "Распыление Молнии не замедляется, когда вы находитесь в режиме Замедленного Времени или Гиперфокусе.",
+          "text": "Распыление Молнии не замедляется, когда вы находитесь в режиме Замедления времени или Гиперфокусе.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7354,49 +7354,49 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArcwireDescription",
-          "text": "Используя посох, наполненный молниями, нажмите кнопку использования и размахнитесь, чтобы ударить шокирующим, разрезающим проводом молнии.",
+          "text": "Используя начарованный молнией посох, нажмите кнопку использования и размахнитесь, чтобы ударить шокирующим, разрезающим проводом молнии.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueFireName",
-          "text": "Наполнение стрелы: огонь",
+          "text": "Начарование стрелы: огонь",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueFireDescription",
-          "text": "Автоматически наполняет стрелы NPC огнем.",
+          "text": "Автоматически начаровывает стрелы NPC огнем.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueGravityName",
-          "text": "Наполнение стрелы: гравитация",
+          "text": "Начарование стрелы: гравитация",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueGravityDescription",
-          "text": "Автоматически наделяет стрелы NPC гравитацией.",
+          "text": "Автоматически начаровывает стрелы NPC гравитацией.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueLightningName",
-          "text": "Наполнение стрелы: Молния",
+          "text": "Начарование стрелы: Молния",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueLightningDescription",
-          "text": "Автоматически наделяет стрелы NPC молнией.",
+          "text": "Автоматически начаровывает стрелы NPC молнией.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7494,7 +7494,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ChargeSappingDescription",
-          "text": "Распыление Молнии вытягивает магию из оружия или заклинания, пропитанного молнией, находящегося в другой руке, увеличивая дальность и мощность. Разблокировка этого умения также увеличивает скорость заряда молнии и позволяет распылять ее дольше.",
+          "text": "Распыление Молнии вытягивает магию из оружия или заклинания, начарованного молнией, находящегося в другой руке, увеличивая дальность и мощность. Разблокировка этого умения также увеличивает скорость заряда молнии и позволяет распылять ее дольше.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7543,7 +7543,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DetonationSwarmName",
-          "text": "Детонационный рой",
+          "text": "Взрывной рой",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7606,7 +7606,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ElectromagnetismDescription",
-          "text": "Стрелы и метательное оружие, пропитанные молниями, притягиваются к врагам при выстреле или броске.",
+          "text": "Стрелы и метательное оружие, начарованное молниями, притягиваются к врагам при выстреле или броске.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7809,14 +7809,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "HeatwaveName",
-          "text": "Горячая волна",
+          "text": "Тепловая волна",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "HeatwaveDescription",
-          "text": "Зарядите заклинание «Огонь» и бросьте руку, не отпуская ее, чтобы пробить конус пламени, который наносит урон и поджигает врагов.",
+          "text": "Зарядите заклинание огня и бросьте руку вперед, не отпуская заклинание, чтобы ударить конусом пламени, наносящим урон и поджигающим врагов.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7858,7 +7858,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "HyperFocusDescription",
-          "text": "Удерживайте кнопку «Замедлить время», чтобы войти в режим «Гиперфокус». Время движется невероятно медленно, а вы – нет. Разблокирование этого навыка также увеличивает ваш максимальный запас концентрации.",
+          "text": "Удерживайте кнопку Замедления времени, чтобы войти в режим «Гиперфокус». Время движется невероятно медленно, а вы – нет. Разблокирование этого навыка также увеличивает ваш максимальный запас концентрации.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7879,7 +7879,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "IgnitionBurstName",
-          "text": "Взрыв зажигания",
+          "text": "Зажигательный взрыв",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7928,7 +7928,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InfernoStaffDescription",
-          "text": "Используя пропитанный огнём посох, нажмите кнопку использования, чтобы выпустить поток пламени. Смотрите за отдачей...",
+          "text": "Используя начарованный огнём посох, нажмите кнопку использования, чтобы выпустить поток пламени. Смотрите за отдачей...",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7998,56 +7998,56 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MassReductionDescription",
-          "text": "Оружие, наполненное Гравитацией, весит намного меньше, что упрощает обращение с ним.",
+          "text": "Оружие, начарованное Гравитацией, весит намного меньше, что упрощает обращение с ним.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueFireName",
-          "text": "Наполнение оружия ближнего боя: огонь",
+          "text": "Начарование оружия ближнего боя: огонь",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueFireDescription",
-          "text": "Наполняет оружие ближнего боя огнем. Только для использования NPC.",
+          "text": "Начаровывает оружие ближнего боя огнем. Только для использования NPCями.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueGravityName",
-          "text": "Наполнение ближнего боя: Гравитация",
+          "text": "Начарование ближнего боя: Гравитация",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueGravityDescription",
-          "text": "Наделяет оружие ближнего боя гравитацией. Только для использования NPC.",
+          "text": "Начаровывает оружие ближнего боя гравитацией. Только для использования NPCями.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueLightningName",
-          "text": "Наполнение ближнего боя: Молния",
+          "text": "Начарование ближнего боя: Молния",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueLightningDescription",
-          "text": "Наполняет оружие ближнего боя молнией. Только для использования NPC.",
+          "text": "Начаровывает оружие ближнего боя молнией. Только для использования NPC.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MightyKickName",
-          "text": "Могучий удар",
+          "text": "Великий пинок",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8068,7 +8068,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MoltenArcDescription",
-          "text": "Огненное оружие при взмахе разбрызгивает расплавленный металл, который поджигает врагов.",
+          "text": "Начарованное огнём оружие при взмахе разбрызгивает расплавленный металл, который поджигает врагов.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8173,7 +8173,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TwinFlameName",
-          "text": "Двойное Пламя",
+          "text": "Парные огоньки",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8222,7 +8222,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "RocketPunchDescription",
-          "text": "Заряжайте огонь, сжимая кулак и нанося удары, чтобы отбросить вас и ваших врагов.",
+          "text": "Зарядите огонь, сжимая кулак, и нанесите удар, чтобы ракетировать вас и ваших врагов.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8264,7 +8264,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ShockParryDescription",
-          "text": "Парирование атак противника оружием, наполненным молниями, приводит к поражению его электрическим током.",
+          "text": "Парирование атак противника оружием, начарованным молниями, приводит к поражению его электрическим током.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8390,7 +8390,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TeslaWiresDescription",
-          "text": "Прикосновение двух пронизанных молниями орудий вместе образует между ними на короткое время разрезающую дугу.",
+          "text": "При соприкосновении двух оружий, начарованных молнией, между ними на короткое время образуется режущая Дуговая нить.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8404,7 +8404,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ThunderboltDescription",
-          "text": "Зарядите и бросьте заклинание Молнии, чтобы запустить удар молнией, которая которая цепляет ближайших врагов. Получает выгоду от Поглощения Заряда.",
+          "text": "Зарядите и бросьте заклинание Молнии, чтобы запустить удар молнией, которая которая цепляет ближайших врагов. Получает преимущество от Поглощения Заряда.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8432,7 +8432,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "VortexJumpDescription",
-          "text": "Притягивайте все к себе, когда используете Ускоренный Прыжок.",
+          "text": "Притягивайте все к себе, когда используете Усиленный прыжок.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8460,7 +8460,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "WeightlessBoostDescription",
-          "text": "Ненадолго станьте невесомым после использования Ускоренного Прыжка.",
+          "text": "Ненадолго станьте невесомым после использования Усиленного Прыжка.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8523,14 +8523,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FireDescriptionImbue",
-          "text": "Оружие, пропитанное огнем, способно пробить самую толстую броню и даже прочные стены.",
+          "text": "Оружие, начарованное огнем, способно пробить самую толстую броню и даже прочные стены.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FireDescriptionSlam",
-          "text": "Огонь Улучшите посох, чтобы вызвать Огненный удар.",
+          "text": "Начаруйте посох огнём, чтобы вызвать Огненный удар.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8558,14 +8558,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "GravityDescriptionImbue",
-          "text": "Некоторое оружие можно наполнить волшебством, удерживая на нем какое-то заклинание. Оружие с гравитацией заставляет врагов на некоторое время левитировать.",
+          "text": "Некоторое оружие можно начаровать, удерживая на нем какое-то заклинание. Оружие с гравитацией заставляет врагов на некоторое время левитировать.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "GravityDescriptionSlam",
-          "text": "Ударьте посохом, наполненным гравитацией, чтобы создать гравитационную волну, вызывающую левитацию.",
+          "text": "Ударьте начарованным гравитацией посохом, чтобы создать гравитационную волну, вызывающую левитацию.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8600,14 +8600,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LightningDescriptionImbue",
-          "text": "Оружие, наполненное молниями, может поразить врагов электрическим током и оглушить их на короткое время.",
+          "text": "Начарованное молниями оружие может поразить врагов электрическим током и оглушить их на короткое время.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LightningDescriptionSlam",
-          "text": "Ударьте пропитанным молнией посохом, чтобы поразить ближайших врагов электрическим током.",
+          "text": "Ударьте начарованным молнией посохом, чтобы поразить ближайших врагов электрическим током.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8642,7 +8642,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SlowTimeName",
-          "text": "Медленное время",
+          "text": "Замедление времени",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8747,28 +8747,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueRandomName",
-          "text": "Наполнение ближнего боя: случайное",
+          "text": "Начарование оружия ближнего боя: случайное",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MeleeImbueRandomDescription",
-          "text": "Наделяет вражеское оружие случайным эффектом.",
+          "text": "Начаровывает вражеское оружие случайной магией.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueRandomName",
-          "text": "Наполнение стрелы: случайное",
+          "text": "Начарование стрелы: случайное",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ArrowImbueRandomDescription",
-          "text": "Наделяет стрелы NPC случайным эффектом.",
+          "text": "Начаровывает стрелы NPC случайной магией.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8802,7 +8802,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlateDamage",
-          "text": "Пробитие метал.",
+          "text": "Пробитие металла",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8837,7 +8837,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Imbue",
-          "text": "Наполнение магией",
+          "text": "Начарование",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8879,14 +8879,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DrawPower",
-          "text": "Draw Power",
+          "text": "Сила выстрела",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "HoldAmount",
-          "text": "Hold Amount",
+          "text": "Вместимость",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8991,14 +8991,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ProgressionLevel",
-          "text": "Stage:",
+          "text": "Этап:",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ProgressionLevelAlt",
-          "text": "Level:",
+          "text": "Уровень:",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -9025,7 +9025,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianPreservationSociety1Tutorial",
-          "text": "\tЕсли вы читаете это, значит, вы добрались до острова живым. Поздравляю. \n\tИдите к Вратам внутри пещеры. Вы не можете их не заметить. Если вы увидите, что они активируются, наш контракт останется в силе. \n\tОсторожно: здесь небезопасно. Погода здесь неумолимая, а Преступники постоянно ищут новые осколки и могут оказаться здесь, когда нас нет.",
+          "text": "\tЕсли вы читаете это, значит, вы добрались до острова живым. Поздравляю. \n\tИдите к Вратам внутри пещеры. Вы не можете их не заметить. Если вы увидите, что они активируются, наш контракт останется в силе. \n\tОсторожно: здесь небезопасно. Погода здесь неумолимая, а Разбойники постоянно ищут новые осколки и могут оказаться здесь, когда нас нет.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10046,7 +10046,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianCourtHearing_3",
-          "text": "Да, я тебя понимаю. Я вот на счёт чего задумался. Слушай, я знаю, что это не совсем разрешено и все такое, но на самом деле тебе не нужен твой инструмент для зачарования кристалла. Ты... вообще-то можешь просто зачаровать их своими руками. Я знаю, это рискованно, но если ты достаточно близко, и аккуратно целишься, то на самом деле никакого риска нет..\n\tДа, в этом есть смысл. И вы используете для этого обычные зачарования, верно? \n\tДа. Кондаларим на низком уровне, Ваюларим на среднем, Занкаларим на высоком. Эй, но никому ни слова, хорошо? Я не хочу неприятностей.",
+          "text": "Да, я тебя понимаю. Я вот на счёт чего задумался. Слушай, я знаю, что это не совсем разрешено и все такое, но на самом деле тебе не нужен твой инструмент для начарования кристалла. Ты... вообще-то можешь просто начаровать их своими руками. Я знаю, это рискованно, но если ты достаточно близко, и аккуратно целишься, то на самом деле никакого риска нет..\n\tДа, в этом есть смысл. И вы используете для этого обычные зачарования, верно? \n\tДа. Кондаларим на низком уровне, Ваюларим на среднем, Занкаларим на высоком. Эй, но никому ни слова, хорошо? Я не хочу неприятностей.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10088,7 +10088,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianRealistLeaderMeetingRevealsecondimbue_2",
-          "text": "Не обращайте внимания на инструкции, просто собственноручно подключите три предохранител камеры с зачарованием Кондаларима из вашей собственной руки. Вы сэкономите целый час на процедуре. Отблагодарите позже! \n- Я не совсем понимаю, что с этим делать, но я сообщу об этом своему техническому персоналу. Уверен, они сочтут это полезным. \n- Короче говоря, вы, вероятно, сможете отключить стержень с сердечником СУЭ гораздо быстрее, чем мы изначально ожидали. Это должно значительно упростить нашу задачу. \n- Понятно. Спасибо вам за ваш вклад. Правда восторжествует.",
+          "text": "Не обращайте внимания на инструкции, просто собственноручно подключите три предохранител камеры с начарованием Кондаларимом из вашей собственной руки. Вы сэкономите целый час на процедуре. Отблагодарите позже! \n- Я не совсем понимаю, что с этим делать, но я сообщу об этом своему техническому персоналу. Уверен, они сочтут это полезным. \n- Короче говоря, вы, вероятно, сможете отключить стержень с сердечником СУЭ гораздо быстрее, чем мы изначально ожидали. Это должно значительно упростить нашу задачу. \n- Понятно. Спасибо вам за ваш вклад. Правда восторжествует.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10312,7 +10312,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianMaintenanceProcedures_2",
-          "text": "Syndanex - Руководство по эксплуатации и техническому обслуживанию СУЭ уровня 3\n1.15a Аварийное отключение модуля для управления энергослиянием\n\tТРЕБУЕМЫЕ ИНСТРУМЕНТЫ И ПЕРСОНАЛ\n\tДля оптимального выполнения операции требуются три специалиста по маготехнике; однако процедура может быть выполнена одним человеком за более длительное время. Поскольку это аварийная процедура, рекомендуется полное укомплектование для достижения наилучшего результата. \n\tСпециалисту по маготехнике потребуются: \n- Инструменты для начаровывания Кондаларима \n- Инструменты для начаровывания Занкаларима \n- Инструменты для начаровывания Вайуларима\n\tЭти инструменты необходимы для начаровывания всех субмодулей. Пожалуйста, обратитесь к справочным листам модулей, чтобы узнать, как их следует начаровывать.",
+          "text": "Syndanex - Руководство по эксплуатации и техническому обслуживанию СУЭ уровня 3\n1.15a Аварийное отключение модуля для управления энергослиянием\n\tТРЕБУЕМЫЕ ИНСТРУМЕНТЫ И ПЕРСОНАЛ\n\tДля оптимального выполнения операции требуются три специалиста по маготехнике; однако процедура может быть выполнена одним человеком за большее время. Поскольку это аварийная процедура, рекомендуется весь персонал для достижения наилучшего результата. \n\tСпециалисту по маготехнике потребуются: \n- Инструменты для начаровывания Кондаларима \n- Инструменты для начаровывания Занкаларима \n- Инструменты для начаровывания Вайуларима\n\tЭти инструменты необходимы для начаровывания всех субмодулей. Пожалуйста, обратитесь к справочным листам модулей, чтобы узнать, как их следует начаровывать.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10382,7 +10382,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DalgarianSyndanexConsultingReportReveal3rdImbue_3",
-          "text": "Сообщается, что они перепутали требуемое начарование и начаровали правильно первый предохранитель Ваюларимом и второй Занкаримом, но вместо того чтобы снова использовать Занкарим для третьего, они, к сожалению, использовали Ваюларим. Это создало гравитационную плазматическую ударную волну, которая разорвала их тело на три части в области грудной клетки и шеи.",
+          "text": "Сообщается, что они перепутали требуемое начарование и правильно начаровали первый предохранитель Ваюларимом и второй Занкаримом, но вместо того чтобы снова использовать Занкарим для третьего, они, к сожалению, использовали Ваюларим. Это создало гравитационную плазматическую ударную волну, которая разорвала их тело на три части в области грудной клетки и шеи.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -10668,7 +10668,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Outlawsspottingletter",
-          "text": "Моя королева, \n\tПреступники регулярно проводят ночные операции, пытаясь украсть наши карты с указанием местонахождения далгарских руин. Я считаю, что они были проинформированы о Порче, которую они могли там обнаружить. Мы должны действовать быстро, прежде чем они украдут ещё больше. \n\tНастоящим я прошу вашего разрешения атаковать их близлежащие лагеря всей мощью моих войск. Я считаю, что мы должны нанести им удар, прежде чем им удастся собрать больше осколков и использовать против нас колдовство. \nОднажды единые, единые навсегда. \nГенерал Гератан",
+          "text": "Моя королева, \n\tРазбойники регулярно проводят ночные операции, пытаясь украсть наши карты с указанием местонахождения далгарских руин. Я считаю, что они были проинформированы о Порче, которую они могли там обнаружить. Мы должны действовать быстро, прежде чем они украдут ещё больше. \n\tНастоящим я прошу вашего разрешения атаковать их близлежащие лагеря всей мощью моих войск. Я считаю, что мы должны нанести им удар, прежде чем им удастся собрать больше осколков и использовать против нас колдовство. \nОднажды единые, единые навсегда. \nГенерал Гератан",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11046,7 +11046,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PareanLonetaLetter2",
-          "text": "Дорогой Элтриан, \n\tРаспродажа продолжается! Считай это сделкой с твоей бабушкой. \n\tИдем дальше, я продам ее печенье всему полку! Это\n\tОчень подходящее время, так как зима становится все хуже. \n\tНу, немного тёплого огня, пожалуй, лучше, чем сладкое угощение, но мы \n\tПридём использовать то, что имеем. Что ещё печальнее, наши потери\n\tудвоились по сравнению с тем, к чему мы привыкли. Тамошние преступники доставляют нам на удивление тяжелые времена. В любом случае, я прошу полного\n\tпроизводства печенья вашей бабушки! \nПри всём моём уважении, \nПареан",
+          "text": "Дорогой Элтриан, \n\tРаспродажа продолжается! Считай это сделкой с твоей бабушкой. \n\tИдем дальше, я продам ее печенье всему полку! Это\n\tОчень подходящее время, так как зима становится все хуже. \n\tНу, немного тёплого огня, пожалуй, лучше, чем сладкое угощение, но мы \n\tПридём использовать то, что имеем. Что ещё печальнее, наши потери\n\tудвоились по сравнению с тем, к чему мы привыкли. Тамошние разбойники доставляют нам на удивление тяжелые времена. В любом случае, я прошу полного\n\tпроизводства печенья вашей бабушки! \nПри всём моём уважении, \nПареан",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11381,7 +11381,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TheEyePropagandaTooutlaws",
-          "text": "Мы следим за Outlaws и видим в тебе большой потенциал. \nМы знаем, что вам нужны осколки, и у нас их столько, сколько вам нужно.\nСообщите нам о любом исключительном волшебнике, и вы будете вознаграждены осколком.\nИщите подвески Кайосвы, чтобы найти нас.\n\nИ если ваша кровь говорит Вам,\nПрисоединяйтесь к нашему дозору,\nПрисоединяйтесь к Оку",
+          "text": "Мы следим за разбойниками и видим в тебе большой потенциал. \nМы знаем, что вам нужны осколки, и у нас их столько, сколько вам нужно.\nСообщите нам о любом исключительном волшебнике, и вы будете вознаграждены осколком.\nИщите подвески Кайосвы, чтобы найти нас.\n\nИ если ваша кровь говорит Вам,\nПрисоединяйтесь к нашему дозору,\nПрисоединяйтесь к Оку",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -13479,14 +13479,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutlawsOutpost",
-          "text": "Преступники",
+          "text": "Разбойники",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OutlawsOutpostDesc",
-          "text": "Аванпост, занятый Преступниками. Преступники — это группа борющихся бандитов, изгнанных и преследуемых Королевством Эраден.",
+          "text": "Аванпост, занятый Разбойниками. Разбойниками — это группа борющихся друг с другом бандитов, изгнанных и преследуемых Королевством Эраден.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -14432,7 +14432,7 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "PotionHealth",
       "name": "Зелье здоровья",
-      "description": "Заживляющая раны жидкая смесь, наполненная магией. Его целебные свойства почти не изучены, но говорят, что чрезмерное употребление в пищу может свести с ума."
+      "description": "Заживляющая раны жидкая смесь, наполненная магией. Её целебные свойства почти не изучены, но говорят, что чрезмерное употребление может свести с ума."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
@@ -14612,7 +14612,7 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "StaffShaman",
       "name": "Импровизированный посох",
-      "description": "Тип посоха, который обычно создается и используется преступниками для несанкционированного колдовства."
+      "description": "Тип посоха, который обычно создается и используется разбойниками для несанкционированного колдовства."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
@@ -15662,13 +15662,13 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "ToolDalgarianPickaxe",
       "name": "Древняя кирка",
-      "description": "Кирка, которой более тысячи лет, используемая далгарцами. В него встроен гравитационный кристалл, что упрощает его использование в условиях гравитации."
+      "description": "Кирка, которой более тысячи лет, используемая далгарцами. В неё встроен гравитационный кристалл, что упрощает её использование, когда она начарована гравитацией."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "MaceDalgarianHammer",
       "name": "Древний Молот",
-      "description": "Кувалда возрастом более тысячи лет, используемая далгарцами. В него встроен гравитационный кристалл, что упрощает его использование в условиях гравитации."
+      "description": "Кувалда возрастом более тысячи лет, используемая далгарцами. В неё встроен гравитационный кристалл, что упрощает её использование, когда она начарована гравитацией."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
@@ -15811,7 +15811,7 @@
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "DalgLantern",
-      "name": "Прочный фонарь",
+      "name": "Начарованный фонарь",
       "description": ""
     },
     {
@@ -16136,7 +16136,7 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "WarMageChest",
       "name": "Дублет послушника",
-      "description": "Рубашка, которую носят волшебники Ока. Ткань тщательно пропитана осколками пыли, чтобы усилить волшебство пользователя."
+      "description": "Рубашка, которую носят волшебники Ока. Ткань тщательно начарована осколками пыли, чтобы усилить волшебство пользователя."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
@@ -16196,19 +16196,19 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "ToolDalgarianShovel",
       "name": "Древняя лопата",
-      "description": "Лопата возрастом более тысячи лет, используемая далгарцами. В него встроен гравитационный кристалл, что упрощает его использование в условиях гравитации."
+      "description": "Лопата, которой более тысячи лет, использовалась далгарцами. В неё встроен гравитационный кристалл, что упрощает её использование, когда она начарована гравитацией."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "SmallShieldT1",
       "name": "Деревянный Таргет",
-      "description": "Небольшой боевой щит, используемый для защиты рук."
+      "description": "Небольшой боевой щит для защиты рук."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "SmallShieldT2",
       "name": "Пехотный щит",
-      "description": "Небольшой щит, позволяющий пользователю сохранять полную подвижность своего оружия."
+      "description": "Небольшой щит, позволяющий пользователю сохранять полную мобильность своего оружия."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
