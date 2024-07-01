@@ -806,7 +806,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TooltipScreenshotIndex",
-          "text": "Нажмите «Влево A» и «Влево B» одновременно, чтобы сделать снимок экрана.",
+          "text": "Нажмите «Левый A» и «Правый B» одновременно, чтобы сделать снимок экрана.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -827,7 +827,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TooltipSlowmotionScale",
-          "text": "Предупреждение: значение ниже 0,5 может вызвать некоторые физические проблемы.",
+          "text": "Предупреждение: значение ниже 0,5 может вызвать некоторые проблемы с физикой.",
           "spriteAddress": null,
           "videoAddress": null
         }
@@ -945,7 +945,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Take",
-          "text": "Брать",
+          "text": "Взять",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2877,7 +2877,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MassMultiplier",
-          "text": "Mass mult.",
+          "text": "Множитель массы",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2898,28 +2898,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Fight",
-          "text": "Fight",
+          "text": "В бой",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Return",
-          "text": "Return",
+          "text": "Вернуться",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Stop",
-          "text": "Stop",
+          "text": "Хватит!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Player",
-          "text": "Player",
+          "text": "Игрок",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2933,35 +2933,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Total",
-          "text": "Total",
+          "text": "Всего",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MaxAlive",
-          "text": "Max Alive",
+          "text": "Макс. живых",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Health",
-          "text": "Health",
+          "text": "Здоровье",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "All",
-          "text": "All",
+          "text": "Всё",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Info",
-          "text": "Info",
+          "text": "Информация",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2989,14 +2989,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Hold",
-          "text": "Hold",
+          "text": "Держать",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ElasticMan",
-          "text": "Elastic Man",
+          "text": "Эластичный мужик",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3087,105 +3087,105 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Snap",
-          "text": "Snap",
+          "text": "Резкий",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Smooth",
-          "text": "Smooth",
+          "text": "Плавный",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Object",
-          "text": "Object",
+          "text": "Объект",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Ragdoll",
-          "text": "Ragdoll",
+          "text": "Рэгдол",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Body",
-          "text": "Body",
+          "text": "Тело",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "VeryLow",
-          "text": "Very Low",
+          "text": "Очень низкое",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Low",
-          "text": "Low",
+          "text": "Низкое",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Medium",
-          "text": "Medium",
+          "text": "Среднее",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "High",
-          "text": "High",
+          "text": "Выское",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "VeryHigh",
-          "text": "Very High",
+          "text": "Очень высокое",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Small",
-          "text": "Small",
+          "text": "Маленький",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Large",
-          "text": "Large",
+          "text": "Большой",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Custom",
-          "text": "Custom",
+          "text": "Свой",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Soft",
-          "text": "Soft",
+          "text": "Мягкий",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Rigid",
-          "text": "Rigid",
+          "text": "Твёрдый",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3227,70 +3227,70 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "WaitConnection",
-          "text": "Wait Connection",
+          "text": "Ожидание соединения",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Toggle",
-          "text": "Toggle",
+          "text": "Переключить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FallOnly",
-          "text": "Fall only",
+          "text": "Только падение",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DamageOnly",
-          "text": "Damage only",
+          "text": "Толкьо урон",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "AllExceptFall",
-          "text": "All except fall",
+          "text": "Всё, кроме падения",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Directional",
-          "text": "Directional",
+          "text": "Направленный",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NonDirectional",
-          "text": "Non Directional",
+          "text": "Ненаправленный",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Unmanaged",
-          "text": "Unmanaged",
+          "text": "Неуправляемое",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ParticleSystems",
-          "text": "Particle Systems",
+          "text": "Системы частиц",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FrontToBack",
-          "text": "Front To Back",
+          "text": "Спереди назад",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3304,7 +3304,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "RefreshRate",
-          "text": "Refresh Rate",
+          "text": "Частота обновления",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3332,7 +3332,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Blunts",
-          "text": "Blunts",
+          "text": "Тупое оружие",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3437,7 +3437,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Specials",
-          "text": "Specials",
+          "text": "Специальное",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3500,14 +3500,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Mages",
-          "text": "Колдун",
+          "text": "Колдуны",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Warzone",
-          "text": "Warzone",
+          "text": "Бойня",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3661,21 +3661,21 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PermaDeathMessage",
-          "text": "ПОТРАЧЕНО.\nВаше путешествие заканчивается здесь",
+          "text": "ПОТРАЧЕНО.\nВаше путешествие окончится здесь",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SlowMotionVolume",
-          "text": "Замедленная громкость",
+          "text": "Громкость замедления времени",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CleanVisibleDroppedItems",
-          "text": "Очистите видимые предметы",
+          "text": "Очистить видимые предметы",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3703,7 +3703,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ExertionNoise",
-          "text": "Exertion noise",
+          "text": "Звуки усилий",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3724,7 +3724,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "UseItem",
-          "text": "Use item",
+          "text": "Использовать",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3745,7 +3745,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Update",
-          "text": "Update",
+          "text": "Обновить",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3759,7 +3759,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Error",
-          "text": "Error",
+          "text": "Ошибка",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3808,7 +3808,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Holster",
-          "text": "кобура",
+          "text": "Кобура",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3829,42 +3829,42 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Cinematic",
-          "text": "Cinematic",
+          "text": "Кинематографичный",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Filmic",
-          "text": "Filmic",
+          "text": "Фильмоподобный",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "HighContrast",
-          "text": "High Contrast",
+          "text": "Высокий контраст",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CharacterOriginNation",
-          "text": "Origin",
+          "text": "Раса",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CharacterSelectionPrimaryColor",
-          "text": "Primary",
+          "text": "Основной",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CharacterSelectionSecondaryColor",
-          "text": "Secondary",
+          "text": "Вторичный",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3955,7 +3955,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ReturnHomeAreaWarning",
-          "text": "Вы собираетесь вернуться домой, поверните назад, если хотите остаться.",
+          "text": "Вы собираетесь вернуться домой. Идите назад, если хотите остаться.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4018,21 +4018,21 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TermsOfUse",
-          "text": "Terms of Use",
+          "text": "Условия использования",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Decline",
-          "text": "Decline",
+          "text": "Отклонить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Accept",
-          "text": "Accept",
+          "text": "Принять",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4046,7 +4046,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ModManagerDisclaimerTitle",
-          "text": "Mod it until it breaks",
+          "text": "Накатывай модов, пока всё не сломается",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4081,147 +4081,147 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Submit",
-          "text": "Submit",
+          "text": "Отправить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Skip",
-          "text": "Skip",
+          "text": "Пропустить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Filters",
-          "text": "Filters",
+          "text": "Фильтры",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Popular",
-          "text": "Popular",
+          "text": "Популярные",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MostDownloads",
-          "text": "Most Downloads",
+          "text": "Самые загружаемые",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MyMods",
-          "text": "My Mods",
+          "text": "Мои моды",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Description",
-          "text": "Description",
+          "text": "Описание",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ModInformations",
-          "text": "Mod Informations",
+          "text": "Информация о моде",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Version",
-          "text": "Version",
+          "text": "Версия",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DownloadMods",
-          "text": "Download Mods",
+          "text": "Скачанные моды",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InstalledMod",
-          "text": "This mod is installed",
+          "text": "Этот мод установлен",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NotInstalledMod",
-          "text": "This mod is not installed",
+          "text": "Этот мод не установлен",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LastUpdate",
-          "text": "Last update",
+          "text": "Последнее обновление",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Downloads",
-          "text": "Downloads",
+          "text": "Загрузки",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DownloadsToday",
-          "text": "Today's downloads",
+          "text": "Сегодняшние загрузки",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Subscribers",
-          "text": "Subscribers",
+          "text": "Подписчики",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Creators",
-          "text": "Creators",
+          "text": "Создатели",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Tags",
-          "text": "Tags",
+          "text": "Тэги",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Install",
-          "text": "Install",
+          "text": "Установить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Uninstall",
-          "text": "Uninstall",
+          "text": "Удалить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "UninstallAll",
-          "text": "Uninstall All",
+          "text": "Удалить все",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4242,28 +4242,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Authenticating",
-          "text": "Authenticating",
+          "text": "Аутентификация",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InstallingMod",
-          "text": "Installing Mod",
+          "text": "Установка мода",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "UninstallingMod",
-          "text": "Uninstalling Mod",
+          "text": "Удаление мода",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PleaseWait",
-          "text": "Please wait...",
+          "text": "Пожалуйста подождите...",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4354,7 +4354,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Search",
-          "text": "Search",
+          "text": "Поиск",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4389,7 +4389,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Errors",
-          "text": "Errors",
+          "text": "Ошибки",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4403,14 +4403,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Size",
-          "text": "Size",
+          "text": "Размер",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Free",
-          "text": "Free",
+          "text": "Бесплатно",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4480,7 +4480,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Timeout",
-          "text": "Timeout",
+          "text": "Истекло время ожидания",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4501,7 +4501,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SleepMessage",
-          "text": "You are about to sleep, leave the bed to cancel",
+          "text": "Вы щас заснёте! Немедленно покиньте кровать, если не хотите спать.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4543,7 +4543,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FastCast",
-          "text": "Мгновенное заклинание",
+          "text": "Мгновенный каст заклинаний",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4557,7 +4557,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "RetrieveItem",
-          "text": "Убрать предмет",
+          "text": "Положить",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4655,14 +4655,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DualPathSkills",
-          "text": "Dual-Path Skills",
+          "text": "Навыки двух путей",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "InfiniteQuivers",
-          "text": "Bottomless Quivers",
+          "text": "Бездонные колчаны",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4704,7 +4704,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Translate",
-          "text": "Translate",
+          "text": "Перевести",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4753,7 +4753,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FreeClimb",
-          "text": "Free Climb",
+          "text": "Свободное карабкание",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4872,7 +4872,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "GameModeOption",
-          "text": "Mode Configuration",
+          "text": "Настройка режима",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4900,28 +4900,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TrackersSetup",
-          "text": "Setup Trackers",
+          "text": "Установка трекеров",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TrackersTutorial",
-          "text": "With Motion Trackers, you can kick objects and enemies using your legs",
+          "text": "С помощью трекеров отслежиивания движения, вы можете пинать объекты и врагов, используя ноги.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TrackersNotDetected",
-          "text": "No trackers detected",
+          "text": "Трекеры не обнаружены",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TrackersNotCalibrated",
-          "text": "Trackers not calibrated",
+          "text": "Трекеры неоткалиброваны",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4935,7 +4935,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Go",
-          "text": "Go",
+          "text": "Вперёд",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -4949,35 +4949,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "FullDummy",
-          "text": "Full Dummy",
+          "text": "Полноростовый манекен",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CombatDummy",
-          "text": "Combat Dummy",
+          "text": "Боевой манекен",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Melee",
-          "text": "Melee",
+          "text": "Ближний бой",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Archer",
-          "text": "Archer",
+          "text": "Лучник",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Mage",
-          "text": "Mage",
+          "text": "Маг",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5012,35 +5012,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ResetProgressionLevel",
-          "text": "Reset Progression",
+          "text": "Сбросить прогресс",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "IncreaseProgressionLevel",
-          "text": "Increase Progression",
+          "text": "Увеличить прогресс",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Reset",
-          "text": "Reset",
+          "text": "Сбросить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Increase",
-          "text": "Increase",
+          "text": "Увеличить",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TrackersRecalibrate",
-          "text": "Recalibrate trackers",
+          "text": "Перекалибровать трекеры",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5082,7 +5082,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "DistrictDesc",
-          "text": "An area of the dungeon",
+          "text": "Район подземелья",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -5103,14 +5103,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Industrial",
-          "text": "Industrial",
+          "text": "Промышленный",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "GolemTier",
-          "text": "Golem Tier",
+          "text": "Уровень голема",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8075,7 +8075,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "OverchargeName",
-          "text": "Завышение цены",
+          "text": "Перегрузка",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8124,7 +8124,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "RangedExpertiseDescription",
-          "text": "Стрелы и кинжалы пронзают врагов, а вы бросаете оружие с большей силой.",
+          "text": "Стрелы и кинжалы пронзают врагов насквозь, а вы бросаете оружие с большей силой.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8271,7 +8271,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ShockTripName",
-          "text": "Шоковая поездка",
+          "text": "Шокирующая поездка",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8327,14 +8327,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SupernovaName",
-          "text": "сверхновая",
+          "text": "Сверхновая",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "SupernovaDescription",
-          "text": "Объедините заклинания огня и гравитации, чтобы создать сверхновую, которая рухнет в черную дыру.",
+          "text": "Объедините заклинания огня и гравитации, чтобы создать сверхновую, которая сворачивается в чёрную дыру.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8432,7 +8432,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "VortexJumpDescription",
-          "text": "Притягивайте все к себе, когда используете Усиленный прыжок.",
+          "text": "Притягивайте всё к себе, когда используете Усиленный прыжок.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8488,7 +8488,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "WeightlessShoveDescription",
-          "text": "Двойное нажатие врагов делает их невесомыми на время.",
+          "text": "Двойной толчок врагов делает их невесомыми на время.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8614,7 +8614,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LightningMergeDescription",
-          "text": "Mсоздайте два заклинания молнии, а затем раскиньте ладони, чтобы высвободить луч чистого электричества. Разблокирование этого навыка также увеличивает скорость заряда молнии и позволяет вам распылять дольше.",
+          "text": "Соедините два заклинания молнии, а затем раскиньте ладони, чтобы высвободить луч чистого электричества. Разблокирование этого навыка также увеличивает скорость заряда Распыления молнии и увеличивает его длительность",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8928,7 +8928,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "CastSpeed",
-          "text": "скорость каста",
+          "text": "Скорость каста",
           "spriteAddress": null,
           "videoAddress": null
         },
