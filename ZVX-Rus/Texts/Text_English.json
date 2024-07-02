@@ -1,4 +1,4 @@
-{
+◘{
   "$type": "ThunderRoad.TextData, ThunderRoad",
   "id": "English",
   "sensitiveContent": "None",
@@ -2163,7 +2163,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "QualityPreset",
-          "text": "Предустановка качества",
+          "text": "Настройки качества",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2205,7 +2205,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "HealthVignette",
-          "text": "Виньетка о здоровье",
+          "text": "Виньетка при низком здоровье",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2226,14 +2226,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LocomotionDirection",
-          "text": "Locomotion направление",
+          "text": "Направление движеня",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LocomotionController",
-          "text": "Locomotion контроллер",
+          "text": "Контроллер для передвижения",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2254,7 +2254,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TwoHandedHand",
-          "text": "Two-handed hand",
+          "text": "Главная рука для двуручного оружия",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2268,7 +2268,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ThumbstickJump",
-          "text": "Thumbstick jump",
+          "text": "Прыжок по нажатию джойстика",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2884,14 +2884,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Left",
-          "text": "Left",
+          "text": "Левая",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Right",
-          "text": "Right",
+          "text": "Правая",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3122,35 +3122,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "VeryLow",
-          "text": "Очень низкое",
+          "text": "Очень низкие",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Low",
-          "text": "Низкое",
+          "text": "Низкие",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Medium",
-          "text": "Среднее",
+          "text": "Средние",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "High",
-          "text": "Выское",
+          "text": "Высокие",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "VeryHigh",
-          "text": "Очень высокое",
+          "text": "Очень высокие",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -3171,7 +3171,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Custom",
-          "text": "Свой",
+          "text": "Свои",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7305,7 +7305,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "AchronalBoltsName",
-          "text": "Ахрональные болты",
+          "text": "Вечные молнии",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -7942,7 +7942,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "IntimidationDescription",
-          "text": "Враги, ставшие свидетелями смерти и жестокости своих союзников, могут в страхе сдаться вам. Разблокировка этого навыка также увеличивает ваше максимальное здоровье.",
+          "text": "Враги, ставшие свидетелями смерти и расчленения своих союзников, могут в страхе сдаться вам. Разблокировка этого навыка также увеличивает ваше максимальное здоровье.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8474,7 +8474,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "WeightlessKinesisDescription",
-          "text": "Объекты, которые вы телезахватываете, становятся легче и с ними легче обращаться.",
+          "text": "Объекты, которые вы телезахватываете, становятся легче и с ними проще обращаться.",
           "spriteAddress": null,
           "videoAddress": null
         },
