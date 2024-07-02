@@ -7963,7 +7963,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "LithobrakeName",
-          "text": "Lithobrake",
+          "text": "Гравипад",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -16274,7 +16274,7 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "ApparelImprovisedMageScarf",
       "name": "Шарф",
-      "description": "Очень модное изделие для шеи. Однако он немного пахнет."
+      "description": "Очень модное изделие для шеи. Правда, оно чуть-чуть воняет."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
@@ -16323,14 +16323,14 @@
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "Training2",
-      "title": "в меньшинстве",
-      "description": "Одновременный захват нескольких противников требует большей осведомленности. Следите за своей спиной во время боя."
+      "title": "В меньшинстве",
+      "description": "Одновременная схватка с несколькими противниками требует большей внимательности. Будьте начеку во время боя."
     },
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "Training3",
-      "title": "Лучник Бой",
-      "description": "Лучники будут представлять постоянную угрозу, пока вы сталкиваетесь с приближающимися противниками. Тщательно выбирайте, как вы ими управляете."
+      "title": "Бой лучников",
+      "description": "Лучники будут постоянной угрозой, пока вы сражаетесь с приближающимися противниками. Думайте тщательно, как вы будете с ними справляться."
     },
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
@@ -16383,7 +16383,7 @@
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "SpecialWarzoneVIP",
-      "title": "Защитить VIP",
+      "title": "Защита VIP персоны",
       "description": "Попытка убийства 1 на 20. Защитите VIP-персону из Эрадианского Королевства!"
     },
     {
@@ -16395,19 +16395,19 @@
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "SpecialProgressiveDuel",
-      "title": "Прогрессивная дуэль",
+      "title": "Прогрессирующая дуэль",
       "description": "Дуэль против врагов всех фракций, от слабых до сильных."
     },
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "SpecialGauntletMelee",
-      "title": "Прогрессивная рукавица (ближний бой)",
-      "description": "Большая волна врагов, содержащая все более сложных врагов ближнего боя из каждой фракции, но они хотят только убить вас."
+      "title": "Прогрессирующее испытание (ближний бой)",
+      "description": "Большая волна врагов, содержащая все более сложных врагов ближнего боя из каждой фракции, но все они только и хотят, что убить вас."
     },
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "SpecialGauntlet",
-      "title": "Прогрессивная рукавица",
+      "title": "Прогрессирующее испытание",
       "description": "Волна из 60 врагов, содержащая все более сложных врагов из каждой фракции, но они хотят только убить вас."
     },
     {
@@ -16419,7 +16419,7 @@
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "SoldierSorceryOnly",
-      "title": "Только волшебство",
+      "title": "Только колдуны",
       "description": "Сражайтесь с колдунами этой фракции."
     },
     {
@@ -16473,7 +16473,7 @@
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
       "id": "CultistSorceryOnly",
-      "title": "Только волшебство",
+      "title": "Только колдуны",
       "description": "Сражайтесь с колдунами этой фракции."
     },
     {
@@ -16508,7 +16508,7 @@
     },
     {
       "$type": "ThunderRoad.TextData+Wave, ThunderRoad",
-      "id": "SoldierDuel",
+      "id": "Дуэль солдат",
       "title": "Солдатская дуэль",
       "description": "Сражайтесь только с солдатами Эрадианского королевства."
     },
