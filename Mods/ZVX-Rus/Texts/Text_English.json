@@ -1,6 +1,6 @@
 {
   "$type": "ThunderRoad.TextData, ThunderRoad",
-  "id": "Russian",
+  "id": "English",
   "sensitiveContent": "None",
   "sensitiveFilterBehaviour": "Discard",
   "version": 1,
@@ -16274,7 +16274,7 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "ApparelImprovisedMageScarf",
       "name": "Шарф",
-      "description": "Очень модное изделие для шеи. Правда, оно чуть-чуть воняет."
+      "description": "Очень модное изделие для шеи. Правда, оно чуть-чуть попахивает."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
