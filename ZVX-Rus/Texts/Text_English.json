@@ -2961,7 +2961,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Info",
-          "text": "Информация",
+          "text": "Инфо",
           "spriteAddress": null,
           "videoAddress": null
         },
