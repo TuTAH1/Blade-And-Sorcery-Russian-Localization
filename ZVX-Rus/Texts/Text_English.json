@@ -147,7 +147,7 @@
           "id": "ClimbingOverLedge",
           "text": "Если вы держитесь за уступ, на который хотите перелезть, удерживайте кнопку Jump и двигайтесь вперед, чтобы подтолкнуть себя вверх. Вы также можете опустить руки вниз для дополнительного импульса.",
           "spriteAddress": null,
-          "videoAddress": null
+          "videoAddress": "Bas.Video.WallJump"
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
@@ -13514,7 +13514,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "EradenOutpostDesc",
-          "text": "Аванпост, оккупированный Королевством Эраден. Будьте готовы сражаться с полностью экипированными солдатами и их очарованными колдунами.",
+          "text": "Аванпост, оккупированный Королевством Эраден. Будьте готовы сражаться с полностью экипированными солдатами и их подневольными колдунами.",
           "spriteAddress": null,
           "videoAddress": null
         },
