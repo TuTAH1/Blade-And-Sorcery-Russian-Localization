@@ -47,7 +47,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "TelekinesisPull",
-          "text": "Теперь нажмите на Курок, чтобы потянуть оружие на себя.",
+          "text": "Теперь нажмите на Курок, чтобы притянуть оружие к себе.",
           "spriteAddress": "Bas.Input.{Controller}.TelekinesisPull",
           "videoAddress": null
         },
@@ -1918,7 +1918,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Character",
-          "text": "Персонажа",
+          "text": "Персонаж",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -2415,7 +2415,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MaxEnvironmentalDecals",
-          "text": "Макс. окружение. наклейки",
+          "text": "Макс. наклеек окружения",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -8698,7 +8698,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "MaxMergeReached",
-          "text": "Достигнуто максимальное слияние",
+          "text": "Максимальное слияние",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -15956,13 +15956,13 @@
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "CoinBag",
       "name": "Мешок для монет",
-      "description": "Коллекция валюты."
+      "description": "Запас денег."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
       "id": "CrystalBag",
       "name": "Хрустальная сумка",
-      "description": "Коллекция кристаллов."
+      "description": "Запас кристаллов."
     },
     {
       "$type": "ThunderRoad.TextData+Item, ThunderRoad",
