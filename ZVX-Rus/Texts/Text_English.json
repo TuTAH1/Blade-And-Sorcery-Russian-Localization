@@ -11506,14 +11506,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "AttackShopkeeper_1",
-          "text": "Прекрати!",
+          "text": "Эй, полегче!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "AttackShopkeeper_2",
-          "text": "Осторожно, приятель!",
+          "text": "Аккуратнее, приятель!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11527,7 +11527,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "AttackShopkeeper_6",
-          "text": "Пожалуйста, не делай этого.",
+          "text": "Пожалуйста, прекрати.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11541,7 +11541,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "AttackShopkeeper_8",
-          "text": "Хорошо, это один. Ещё два удара и ты уйдешь отсюда.",
+          "text": "Хорошо, это первый. Ещё два удара и ты вылетишь отсюда.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11555,21 +11555,21 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_0",
-          "text": "Спасибо, что работаете с нами!",
+          "text": "Спасибо за сотрудничество",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_1",
-          "text": "Спасибо, что работаете с нами!",
+          "text": "Спасибо за сотрудничество",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_2",
-          "text": "У вас там хорошая сделка.",
+          "text": "Отличная сделка.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11583,133 +11583,133 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_6",
-          "text": "Хм, ты заключаешь жесткую сделку.",
+          "text": "Хм, с тобой сложно торговаться.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_8",
-          "text": "Хм, ты заключаешь жесткую сделку.",
+          "text": "Хм, с тобой сложно торговаться.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_10",
-          "text": "Ладно, мы заключили сделку.",
+          "text": "Ладно, по рукам.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_11",
-          "text": "Ладно, мы заключили сделку.",
+          "text": "Ладно, по рукам.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_12",
-          "text": "Честно говоря, я бы продал его дешевле.",
+          "text": "Честно говоря, я бы продал это и дешевле.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_13",
-          "text": "Мы заключили сделку",
+          "text": "Договорились.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Buying_14",
-          "text": "Хорошо, договоримся.",
+          "text": "Хорошо, договорились.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_0",
-          "text": "Когда вы будете готовы оформить заказ, положите свои товары на красную ткань на прилавке.",
+          "text": "Когда будешь готов к оплате, положи свои товары на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_1",
-          "text": "Когда вы будете готовы оформить заказ, положите свои товары на красную ткань на прилавке.",
+          "text": "Когда будешь готов к оплате, положи свои товары на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_3",
-          "text": "Когда вы будете готовы оформить заказ, положите свои товары на оранжевую ткань на прилавке.",
+          "text": "Когда будешь готов к оплате, положи свои товары на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_8",
-          "text": "Когда вы будете готовы оформить заказ, просто положите свои товары на оранжевую ткань на прилавке.",
+          "text": "Когда будешь готов к оплате, просто положи свои товары на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_10",
-          "text": "Когда вы будете готовы оформить заказ, просто положите свои товары на оранжевую ткань на прилавке.",
+          "text": "Когда будешь готов к оплате, просто положи свои товары на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_11",
-          "text": "Когда вы будете готовы оформить заказ, просто положите свои товары на оранжевую ткань на прилавке.",
+          "text": "Когда будешь готов к оплате, просто положи свои товары на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_12",
-          "text": "Если вы хотите что-то купить, просто положите это на красную ткань на прилавке.",
+          "text": "Если ты хочешь что-то купить, просто положи это на оранжевую ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_13",
-          "text": "Если вы хотите что-то купить, просто положите это на оранжевую ткань на прилавке.",
+          "text": "Если ты хочешь что-то купить, просто положи это на оранжевую ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_14",
-          "text": "Если вы хотите что-то купить, просто положите это на красную ткань на прилавке.",
+          "text": "Если ты хочешь что-то купить, просто положи это на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_15",
-          "text": "Если вы хотите что-то купить, просто положите это на оранжевую ткань на прилавке.",
+          "text": "Если хочешь что-то купить, просто положи это на красную ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_16",
-          "text": "Если вы хотите продать мне предмет, просто положите его на синюю ткань на прилавке.",
+          "text": "Если хочешь продать мне вещь, просто положи его на синюю ткань на прилавке.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Checkout_18",
-          "text": "Когда будешь готов мне что-нибудь продать, просто положи это на синюю ткань вот вон.",
+          "text": "Когда будешь готов мне что-нибудь продать, просто положи это на синюю ткань вон там.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11744,14 +11744,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Greeting_0",
-          "text": "Привет товарищ!",
+          "text": "Привет, товарищ!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Greeting_1",
-          "text": "Привет товарищ!",
+          "text": "Привет, друг!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11786,7 +11786,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Greeting_6",
-          "text": "Будь то клинок или колдовство, у меня есть все, что вам нужно.",
+          "text": "Будь то клинок или колдовство, у меня есть все, что тебе нужно.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11800,14 +11800,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Greeting_8",
-          "text": "Добро пожаловать! Никаких формальностей, просто сначала вытрите ботинки.",
+          "text": "Добро пожаловать! Никаких формальностей, просто сначала вытри свои ботинки.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Greeting_9",
-          "text": "Здравствуйте и добро пожаловать.",
+          "text": "Здравствуй и добро пожаловать.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11849,7 +11849,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Greeting_Tk2_2",
-          "text": "Здравствуйте и добро пожаловать.",
+          "text": "Привет и добро пожаловать.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11912,7 +11912,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Greeting_Tk2_13",
-          "text": "Добро пожаловать! Никаких формальностей, просто сначала вытрите ботинки.",
+          "text": "Добро пожаловать! Никаких формальностей, просто сначала вытри ботинки.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11933,35 +11933,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemApple_0",
-          "text": "Не буду вам врать, они не самые свежие. Но оглянитесь вокруг, мы посреди океана.",
+          "text": "Не буду тебе врать, они не самые свежие. Но оглянись вокруг, мы посреди океана.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemApple_4",
-          "text": "Не буду вам врать, они не самые свежие. Но оглянитесь вокруг, мы посреди океана.",
+          "text": "Не буду тебе врать, они не самые свежие. Но оглянись вокруг, мы посреди океана.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemApple_5",
-          "text": "Не буду вам врать, они не самые свежие. Но оглянитесь вокруг, мы посреди океана.",
+          "text": "Не буду тебе врать, они не самые свежие. Но оглянись вокруг, мы посреди океана.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemApple_6",
-          "text": "Яблоко в день, и ты не сгниешь. Помните эту поговорку, когда вы были ребенком?",
+          "text": "Одно яблоко в день — и не сгниёшь как тень. Помнишь эту поговорку из детства?",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemApple_8",
-          "text": "Яблоко в день, и ты не сгниешь. Помните эту поговорку, когда вы были ребенком?",
+          "text": "Одно яблоко в день — и не сгниёшь как тень. Помнишь эту поговорку из детства?",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -11975,14 +11975,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemApple_19",
-          "text": "Яблоко в день, и ты не сгниешь. Помните эту поговорку?",
+          "text": "Одно яблоко в день — и не сгниёшь как тень. Помнишь эту поговорку?",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemApple_21",
-          "text": "Яблоко в день, и ты не сгниешь.",
+          "text": "Яблоко в день — и не сгниёшь как тень.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12017,49 +12017,49 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemAxe_5",
-          "text": "Этот топор выполнит свою работу. Хорошо и грязно!",
+          "text": "Этот топор справится с задачей. Грязно и эффективно!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemAxe_6",
-          "text": "Этот топор выполнит свою работу. Хорошо и грязно!",
+          "text": "Этот топор справится с задачей. Грязно и эффективно!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemAxe_8",
-          "text": "Топор идеален, когда вы ещё не совсем готовы зарыть топор.",
+          "text": "Топор отлично подойдёт, когда ты ещё не готов зарыть топор войны.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_6",
-          "text": "Вы когда-нибудь видели, чтобы лучник-ракта стрелял из лука? Колчаны они держат на бедре.",
+          "text": "Ты когда-нибудь видел, как лучник Ракта стреляет из лука? Они носят колчаны на бедре.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_7",
-          "text": "Вы когда-нибудь видели, чтобы лучник-ракта стрелял из лука? Колчаны они держат на бедре.",
+          "text": "Ты когда-нибудь видел, как лучник Ракта стреляет из лука? Они носят колчаны на бедре.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_8",
-          "text": "Убейте их, прежде чем они узнают, что будет дальше. Этот лук сослужит тебе добрую службу.",
+          "text": "Убей их, прежде чем они поймут, что происходит. Этот лук тебе отлично послужит.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_9",
-          "text": "Качественный лук.",
+          "text": "Отличный лук.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12080,91 +12080,91 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_15",
-          "text": "Лук, да? Чтобы этим воспользоваться, нужно много навыков.",
+          "text": "Лук, да? Чтобы им пользоваться, нужно много навыков.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_16",
-          "text": "Итак, вы ищете скрытного лучника? Конечно. Если это то, чем ты увлекаешься...",
+          "text": "Значит, решил стать скрытным лучником? Ну, если тебе это по душе...",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_19",
-          "text": "Итак, вы ищете скрытного лучника? Конечно. Если это то, чем ты увлекаешься...",
+          "text": "Значит, решил стать скрытным лучником? Ну, если тебе это по душе...",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemBowArrows_21",
-          "text": "Качественный лук.",
+          "text": "Классный лук.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_0",
-          "text": "Кинжал — хороший выбор для близких контактов.",
+          "text": "Кинжал — отличный выбор для тесных сражений.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_1",
-          "text": "Кинжал — хороший выбор для близких контактов.",
+          "text": "Кинжал — отличный выбор для тесных сражений.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_Tk2_0",
-          "text": "Кинжал — хороший выбор для близких контактов.",
+          "text": "Кинжал — отличный выбор для тесных сражений.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_Tk2_2",
-          "text": "Если вы хотите убить их тихо, кинжал — хороший выбор.",
+          "text": "Если хочешь убивать тихо, кинжал — отличный выбор.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_Tk2_15",
-          "text": "А, так - вам нужна скрытность.",
+          "text": "Ага, значит хочешь делать всё по-скрытному?",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_Tk2_16",
-          "text": "Если вы хотите убить их тихо, кинжал — хороший выбор.",
+          "text": "Если хочешь убивать тихо, кинжал — отличный выбор.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_Tk2_17",
-          "text": "Нож в темноте. Они никогда не увидят этого.",
+          "text": "Нож во тьме. Они не увидят момента, когда он их настигнет.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_Tk2_18",
-          "text": "Нож в темноте. Они никогда не увидят этого.",
+          "text": "Нож во тьме. Они не увидят момента, когда он их настигнет.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemDagger_Tk2_19",
-          "text": "Кинжал — хороший выбор для близких контактов.",
+          "text": "Кинжал — отличный выбор для тесных сражений.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12178,7 +12178,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemEggs_2",
-          "text": "Вы знаете, что все яйца местного производства?",
+          "text": "Все яйца местного производства, как ты знаешь",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12199,14 +12199,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemEggs_6",
-          "text": "Сегодня утром я приготовила свежую партию яиц.",
+          "text": "Сегодня утром я приготовил свежую партию яиц.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemEggs_10",
-          "text": "Варите их, жарьте, как хотите.",
+          "text": "Вари их, жарь, готовь как захочешь.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12220,70 +12220,70 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemEggs_Tk2_2",
-          "text": "Яйца. Или истребительное топливо, как я их называю!",
+          "text": "Яйца. Или топливо для бойцов, как я их называю!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemFalchion_1",
-          "text": "Ну и что это? Это фальшион из земель Хар-Тиба! Ты не захочешь это продавать, приятель!",
+          "text": "Ну что ж, что это у нас тут? Это палаш из земель Кар-Тиб! Не стоит тебе продавать это, дружище!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemFalchion_4",
-          "text": "Ну и что это? Это фальшион из земель Хар-Тиба! Вы не захотите это продавать!",
+          "text": "Ну вот, что это у нас тут? Это палаш из земель Кар-Тиб! Такую вещь продавать не стоит!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemFalchion_6",
-          "text": "Экзотический клинок! Их используют моряки Хар-Тиба. Это стоит сохранить.",
+          "text": "Экзотический клинок! Их используют моряки Хар-Тиба. Это лучше сохранить.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemFalchion_9",
-          "text": "Экзотический клинок! Их используют моряки Хар-Тиба. Это стоит сохранить.",
+          "text": "Экзотический клинок! Их используют моряки Хар-Тиба. Это лучше сохранить.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemFalchion_11",
-          "text": "Что ж, похоже, вы нашли себе не родное для этих берегов оружие. Этот изогнутый клинок — фальчион из земель Хар-Тиба.",
+          "text": "Похоже, ты наткнулся на оружие, не родное для этих мест. Этот изогнутый клинок — фальшион из земель Ххар-Тиб.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemFalchion_13",
-          "text": "Что ж, похоже, вы нашли себе не родное для этих берегов оружие. Этот изогнутый клинок — фальшион из пустынь Хар-Тиба.",
+          "text": "Похоже, ты нашёл оружие, не родное для этих мест. Этот изогнутый клинок — фальшион из пустынь Ххар-Тиб.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemFalchion_18",
-          "text": "Что ж, похоже, вы нашли себе не родное для этих берегов оружие. Этот изогнутый клинок — фальшион из пустынных земель Хар-Тиба.",
+          "text": "Что ж, похоже, ты нашёл не родное для этих берегов оружие. Этот изогнутый клинок — фальшион из пустынных земель Хар-Тиба.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemGeneric_0",
-          "text": "Не торопитесь, просмотрите.",
+          "text": "Не торопись, осматривайся.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemGeneric_1",
-          "text": "Не торопитесь, просмотрите.",
+          "text": "Не торопись, осматривайся.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12395,14 +12395,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemMace_0",
-          "text": "Если вы действительно хотите нанести какой-то урон, эта булава поможет.",
+          "text": "Если ты действительно хочешь нанести какой-то урон, эта булава поможет.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemMace_1",
-          "text": "Если вы действительно хотите нанести какой-то урон, эта булава поможет.",
+          "text": "Если ты действительно хочешь нанести какой-то урон, эта булава поможет.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12423,14 +12423,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemMace_4",
-          "text": "Я вижу, пришло время расколоть череп. Эта булава сослужит вам добрую службу.",
+          "text": "Похоже, пришло время крошения черепов. Эта булава тебе хорошо послужит.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemMace_5",
-          "text": "Я вижу, пришло время расколоть череп. Эта булава? Хорошо вам послужить.",
+          "text": "Похоже, пришло время крошения черепов. Эта булава? Составит тебе отличную службу.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12465,14 +12465,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemMace_15",
-          "text": "На мой вкус слишком грубо, но каждому свое.",
+          "text": "На мой вкус слишком брутально, но каждому свое.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemMace_16",
-          "text": "На мой вкус слишком грубо, но каждому свое.",
+          "text": "На мой вкус слишком брутально, но каждому свое.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12493,28 +12493,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemShield_2",
-          "text": "Как говорится, лучшее нападение – хорошая защита. Но, конечно, не бегите туда со щитом.",
+          "text": "Как говорится, лучшее нападение – хорошая защита. Но, конечно, не стоит бросаться в бой только с щитом.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemShield_8",
-          "text": "Как говорится, лучшее нападение – хорошая защита. Но не бегите туда со щитом.",
+          "text": "Как говорится, лучшее нападение – хорошая защита. Только не беги туда с одним только щитом.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemShield_12",
-          "text": "Если у вашего противника есть лук, щит — ваш лучший друг.",
+          "text": "Если у твоего противника есть лук, щит — твой лучший друг.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemShield_13",
-          "text": "Если у вашего противника есть лук, поверьте мне, щит — ваш лучший друг.",
+          "text": "Если у твоего противника есть лук, поверь мне, щит — твой лучший друг.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12535,42 +12535,42 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemShield_18",
-          "text": "Лучшее нападение – это хорошая защита. Но не бегите туда со щитом.",
+          "text": "Лучшее нападение – это хорошая защита. Только не беги туда с одним только щитом.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemShield_20",
-          "text": "Лучшее нападение – это хорошая защита. Но, конечно, не бегите туда со щитом.",
+          "text": "Лучшее нападение – это хорошая защита. Но, конечно, не стоит бросаться в бой только с щитом.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSpear_1",
-          "text": "Если вы хотите держать врага на расстоянии, вам подойдет копье.",
+          "text": "Если хочешь держать врага на расстоянии, копьё — это то, что тебе нужно.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSpear_2",
-          "text": "Если вы хотите держать врага на расстоянии, вам подойдет копье.",
+          "text": "Если хочешь держать врага на расстоянии, копьё — это то, что тебе нужно.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSpear_3",
-          "text": "Ах, копье. Старый но золотой.",
+          "text": "Ах, копье. Старое, да удалое",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSpear_4",
-          "text": "Ах, копье. Старый но золотой.",
+          "text": "Ах, копье. Старое, да удалое",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12591,7 +12591,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSpear_8",
-          "text": "Если вы хотите держать врага на расстоянии, вам подойдет копье.",
+          "text": "Если хочешь держать врага на расстоянии, копьё — это то, что тебе нужно.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12612,119 +12612,119 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_0",
-          "text": "Колдун, да? Лучше будьте осторожны вокруг себя.",
+          "text": "Колдун, да? Лучше быть с тобой осторжнее.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_2",
-          "text": "Колдун, да? Лучше будьте осторожны вокруг себя.",
+          "text": "Колдун, да? Лучше быть с тобой осторжнее.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_4",
-          "text": "Если вы считаете себя чем-то вроде волшебника, этот посох сослужит вам добрую службу.",
+          "text": "Если считаешь себя чем-то вроде колдуна, то этот посох тебе хорошо послужит.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_5",
-          "text": "Если вы считаете себя чем-то вроде волшебника, этот посох сослужит вам добрую службу.",
+          "text": "Если считаешь себя чем-то вроде колдуна, то этот посох тебе хорошо послужит.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_6",
-          "text": "Не обращайте внимания на трещину в этом кристалле, он все ещё работает очень хорошо.",
+          "text": "Не обращай внимания на трещину в этом кристалле, он всё равно отлично работает.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_7",
-          "text": "О, не обращай внимания на трещину в этом кристалле. Все ещё работает очень хорошо.",
+          "text": "О, не обращай внимания на трещину в этом кристалле. Все ещё работает отлично.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_8",
-          "text": "Хороший персонал в наше время найти сложно. Вы видите, все дело в работе с деревом.",
+          "text": "Хороший посох в наше время найти нелегко. Всё дело в мастерстве работы с деревом, видишь ли.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_9",
-          "text": "В наше время найти хороший персонал очень сложно.",
+          "text": "В наше время найти хороший посох очень сложно.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_10",
-          "text": "Здесь только настоящие хрустальные посохи.",
+          "text": "Здесь только настоящие кристальные посохи.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_11",
-          "text": "Здесь только настоящие хрустальные посохи.",
+          "text": "Здесь только настоящие кристальные посохи.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_12",
-          "text": "Эраден запрещает продажу этих вещей. Обычно они должны были прийти напрямую от предыдущего владельца. И позвольте мне сказать вам, что это непросто!",
+          "text": "Эраден запрещает продажу таких вещей. Обычно они поступают только напрямую от предыдущего владельца. И скажу вам, это не просто!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_13",
-          "text": "Эраден запрещает продажу этих вещей. Обычно они достались напрямую от предыдущего владельца. И позвольте мне сказать вам, что это непросто!",
+          "text": "Эрадэн запрещает продажу таких вещей. Обычно они поступают только напрямую от предыдущего владельца. И скажу вам, это не просто!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_14",
-          "text": "Эраден запрещает продажу известных вам посохов. Обычно они достались от предыдущего владельца, и позвольте мне сказать вам, что это непросто!",
+          "text": "Эрадэн запрещает продажу посохов, знаешь ли. Обычно они поступают только от предыдущего владельца, и скажу тебе, это не так-то просто",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_15",
-          "text": "Не забудьте использовать это ответственно, и если вы этого не сделаете, вы не получили это здесь.",
+          "text": "Помни, что это нужно использовать ответственно, а если нет, то ты это здесь не покупал.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_17",
-          "text": "Не забудьте использовать это ответственно, а если вы этого не сделаете, значит, вы не получили это здесь.",
+          "text": "Помни, что это нужно использовать ответственно, а если нет, то ты это здесь не покупал.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_19",
-          "text": "Будьте осторожны при покупке посоха. Там очень много шарлатанов.",
+          "text": "Будь осторожен при покупке посохов. Существует много мошенников.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemStaff_20",
-          "text": "Будьте осторожны при покупке посоха. Там очень много шарлатанов.",
+          "text": "Будь осторожен при покупке посохов. Часто встречаются мошенники",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12745,70 +12745,70 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_3",
-          "text": "Красивый меч там.",
+          "text": "Какой красивый меч.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_4",
-          "text": "Красивый меч там.",
+          "text": "Прекрасный меч.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_5",
-          "text": "У вас там лучшая сталь Эраден.",
+          "text": "Это первоклассная сталь Эраден",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_6",
-          "text": "У тебя там лучшая сталь Эраден.",
+          "text": "Это первокласная Эраденсская сталь",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_7",
-          "text": "Ох, с таким мечом ты нанесешь некоторый урон.",
+          "text": "Ох, с таким мечом ты наделаешь дел!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_8",
-          "text": "Таким мечом ты нанесешь некоторый урон.",
+          "text": "С таким мечом ты сможешь наделать бед.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_10",
-          "text": "Меч настолько остер, насколько остер его владелец. Но вам захочется это отточить.",
+          "text": "Меч так же остёр, как и его хозяин. Но его всё равно лучше подточить.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_12",
-          "text": "Меч настолько остер, насколько остер его владелец. Но вы можете захотеть это отточить.",
+          "text": "Меч остёр настолько, насколько остёр его хозяен. Но тебе всё же стоит его подточить.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "ItemSword_14",
-          "text": "Меч настолько остер, насколько остер его владелец. Но вы можете захотеть это отточить.",
+          "text": "Меч остёр настолько, насколько остёр его хозяен. Но тебе всё равно лучше его подточить.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_0",
-          "text": "Заботиться!",
+          "text": "Береги себя!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12822,7 +12822,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_2",
-          "text": "Спасибо за ваш бизнес.",
+          "text": "Спасибо за покупку!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12836,14 +12836,14 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_4",
-          "text": "Будьте в безопасности там.",
+          "text": "Береги себя там.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_5",
-          "text": "Безопасных путешествий!",
+          "text": "Безопасных тебе странствий!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12864,35 +12864,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_11",
-          "text": "Будьте в безопасности там.",
+          "text": "Береги себя там.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_12",
-          "text": "Безопасных путешествий! Вам нечего бояться, кроме самого страха. И все эти враги.",
+          "text": "Безопасных путешествий! Тебе не нужно бояться ничего, кроме самого страха. Ну и всех тех врагов.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_15",
-          "text": "Безопасные путешествия! Вам нечего бояться, кроме самого страха. И все эти враги.",
+          "text": "Безопасных путешествий! Тебе не нужно бояться ничего, кроме самого страха. Ну и всех тех врагов.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_20",
-          "text": "Заботиться!",
+          "text": "Береги себя!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Leaving_21",
-          "text": "Спасибо за ваш бизнес!",
+          "text": "Спасибо за покупку!",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12906,21 +12906,21 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_1",
-          "text": "Извини, приятель, этого недостаточно.",
+          "text": "Извини, друг, но этого недостаточно.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_2",
-          "text": "Извини, приятель, здесь недостаточно монет.",
+          "text": "Извини, но монеток не хватает.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_3",
-          "text": "Извини, приятель, здесь недостаточно монет.",
+          "text": "Извини, но монет не хватает.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12934,28 +12934,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_7",
-          "text": "ещё пара монет, и мы заключили сделку.",
+          "text": "Ещё пару монет, и по рукам.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_9",
-          "text": "Извините, табов нет! Боюсь, мне нужна монета.",
+          "text": "Извини, но в долг дам!",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_13",
-          "text": "Извините, табов нет! Боюсь, мне понадобится больше монет.",
+          "text": "Нужно больше золота. В долг не дам, извини.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_15",
-          "text": "Ах, боюсь, мне нужно заплатить полностью.",
+          "text": "Ах, боюсь, мне нужно заплатить полную цену.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -12969,7 +12969,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_19",
-          "text": "Хех, у тебя доброе лицо, но боюсь, мне все равно придется заплатить полную сумму.",
+          "text": "Хех, у тебя доброе лицо, но боюсь, тебе всё равно придётся заплатить полную сумму.",
           "spriteAddress": null,
           "videoAddress": null
         },
