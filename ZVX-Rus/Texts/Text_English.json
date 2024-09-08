@@ -12997,35 +12997,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_Tk2_3",
-          "text": "Извините, здесь недостаточно монет.",
+          "text": "Извини, но здесь недостаточно монет.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_Tk2_4",
-          "text": "Ещё пара монет и мы заключили сделку.",
+          "text": "Ещё пара монет и по рукам.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_Tk2_5",
-          "text": "ещё немного монет, и мы заключили сделку.",
+          "text": "Ещё немного монет, и по рукам.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_Tk2_6",
-          "text": "К сожалению, мне нужно, чтобы мне заплатили сполна.",
+          "text": "К сожалению, мне нужно, чтобы мне заплатили полную сумму.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_Tk2_7",
-          "text": "Ах, извините, мне нужно, чтобы мне заплатили сполна.",
+          "text": "Ах, извините, мне нужно, чтобы мне заплатили полную сумму.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -13053,28 +13053,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_Tk2_11",
-          "text": "У тебя доброе лицо, но мне нужно заплатить сполна.",
+          "text": "У тебя доброе лицо, но мне нужно заплатить полную сумму.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "NoMoney_Tk2_12",
-          "text": "Извините, у вас недостаточно монет.",
+          "text": "Извини, но у тебя не хватает монет.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_0",
-          "text": "Извините, вам придется заплатить за это, прежде чем вы сможете уйти.",
+          "text": "Извини, но сначала нужно оплатить это, прежде чем ты сможешь уйти.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_3",
-          "text": "Извини, приятель, тебе придется заплатить за это, прежде чем уйти.",
+          "text": "Извини, приятель, но сначала нужно оплатить это, прежде чем ты сможешь уйти.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -13102,35 +13102,35 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_9",
-          "text": "Ты ничего не забыл? Вам нужно заплатить за этот товар.",
+          "text": "Ты ничего не забыл? А за товар заплатить?",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_10",
-          "text": "Эй, ты ничего не забыл? Вам нужно заплатить за этот товар.",
+          "text": "Эй, ты ничего не забыл? Нужно оплатить этот товар.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_11",
-          "text": "Я собираюсь дать тебе презумпцию невиновности в том, что ты просто забыл заплатить за это, приятель.",
+          "text": "С тенью сомнения предположу,что ты просто забыл оплатить этот товар, приятель.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_13",
-          "text": "Да... у тебя сумка тяжеловата, друг. Вам придется заплатить за эти вещи.",
+          "text": "Да... у тебя кошелек тяжеловат, друг. Придется заплатить за эти вещи.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_14",
-          "text": "У тебя кошелек немного тяжеловат, друг. Вам придется заплатить за эти вещи.",
+          "text": "У тебя кошелек немного тяжеловат, друг. Придется заплатить за эти вещи.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -13151,7 +13151,7 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerSteals_18",
-          "text": "Я вижу, кто-то слишком много играл в Thief.",
+          "text": "Я вижу, кто-то слишком много играл в вора.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -13165,28 +13165,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerThrownOut_1",
-          "text": "Ладно, приятель, ты уходишь отсюда.",
+          "text": "Ладно, приятель, проваливай отсюда.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerThrownOut_2",
-          "text": "Ладно, приятель, ты уходишь отсюда.",
+          "text": "Ладно, приятель, проваливай отсюда.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerThrownOut_3",
-          "text": "Всё, нужно несколько дней, чтобы остыть.",
+          "text": "Ну всё, возьми несколько дней, чтобы остыть.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerThrownOut_4",
-          "text": "Всё, нужно несколько дней, чтобы остыть.",
+          "text": "Ну всё, возьми несколько дней, чтобы остыть.",
           "spriteAddress": null,
           "videoAddress": null
         },
@@ -13207,28 +13207,28 @@
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerThrownOut_7",
-          "text": "Ты, мой друг, уйди отсюда.",
+          "text": "Ты, мой друг, убирайся отсюда.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerThrownOut_8",
-          "text": "Если ты не умеешь себя вести, ты убираешься отсюда.",
+          "text": "Если ты не умеешь себя вести, убирайся отсюда.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "PlayerThrownOut_10",
-          "text": "Всё, ты уходишь отсюда.",
+          "text": "Всё, ты убираешься отсюда.",
           "spriteAddress": null,
           "videoAddress": null
         },
         {
           "$type": "ThunderRoad.TextData+TextID, ThunderRoad",
           "id": "Selling_0",
-          "text": "Спасибо!",
+          "text": "Благодарю!",
           "spriteAddress": null,
           "videoAddress": null
         },
